@@ -1,0 +1,271 @@
+2025-09-17 00:06:54,369 - __main__ - INFO - Configuration manager initialized
+2025-09-17 00:06:54,369 - __main__ - INFO - Camera manager initialized
+2025-09-17 00:06:54,369 - __main__ - ERROR - Failed to initialize managers: LLMManager.__init__() missing 1 required positional argument: 'config'
+2025-09-17 00:06:54,369 - __main__ - ERROR - Failed to initialize managers. Exiting.
+2025-09-17 00:08:42,546 - __main__ - INFO - Configuration manager initialized
+2025-09-17 00:08:42,547 - config.settings - INFO - Configuration file loaded: /Users/lianbin/workdir/_codes_/New_Project/ai_assisted_group_managesystem/lab_asset_manager/config.json
+2025-09-17 00:08:42,547 - __main__ - INFO - Camera manager initialized
+2025-09-17 00:08:42,547 - config.settings - INFO - Configuration file loaded: /Users/lianbin/workdir/_codes_/New_Project/ai_assisted_group_managesystem/lab_asset_manager/config.json
+2025-09-17 00:08:42,547 - llm.llm_manager - INFO - Initialized OpenAI LLM (model: gpt-4-turbo)
+2025-09-17 00:08:42,547 - __main__ - INFO - LLM manager initialized
+2025-09-17 00:08:42,547 - config.settings - INFO - Configuration file loaded: /Users/lianbin/workdir/_codes_/New_Project/ai_assisted_group_managesystem/lab_asset_manager/config.json
+2025-09-17 00:08:43,136 - elabftw.elab_manager - INFO - Successfully connected to elabFTW API: https://10.159.65.92:3148/api/v2
+2025-09-17 00:08:43,136 - __main__ - INFO - ELabFTW manager initialized
+2025-09-17 00:08:43,136 - config.settings - INFO - Configuration file loaded: /Users/lianbin/workdir/_codes_/New_Project/ai_assisted_group_managesystem/lab_asset_manager/config.json
+2025-09-17 00:08:43,136 - config.settings - INFO - Configuration file loaded: /Users/lianbin/workdir/_codes_/New_Project/ai_assisted_group_managesystem/lab_asset_manager/config.json
+2025-09-17 00:08:43,137 - __main__ - INFO - QR code generator initialized
+2025-09-17 00:08:43,137 - __main__ - INFO - Starting Lab Asset Manager Web API Server...
+2025-09-17 00:09:08,217 - __main__ - INFO - Configuration manager initialized
+2025-09-17 00:09:08,218 - config.settings - INFO - Configuration file loaded: /Users/lianbin/workdir/_codes_/New_Project/ai_assisted_group_managesystem/lab_asset_manager/config.json
+2025-09-17 00:09:08,218 - __main__ - INFO - Camera manager initialized
+2025-09-17 00:09:08,218 - config.settings - INFO - Configuration file loaded: /Users/lianbin/workdir/_codes_/New_Project/ai_assisted_group_managesystem/lab_asset_manager/config.json
+2025-09-17 00:09:08,218 - llm.llm_manager - INFO - Initialized OpenAI LLM (model: gpt-4-turbo)
+2025-09-17 00:09:08,218 - __main__ - INFO - LLM manager initialized
+2025-09-17 00:09:08,218 - config.settings - INFO - Configuration file loaded: /Users/lianbin/workdir/_codes_/New_Project/ai_assisted_group_managesystem/lab_asset_manager/config.json
+2025-09-17 00:09:08,697 - elabftw.elab_manager - INFO - Successfully connected to elabFTW API: https://10.159.65.92:3148/api/v2
+2025-09-17 00:09:08,697 - __main__ - INFO - ELabFTW manager initialized
+2025-09-17 00:09:08,697 - config.settings - INFO - Configuration file loaded: /Users/lianbin/workdir/_codes_/New_Project/ai_assisted_group_managesystem/lab_asset_manager/config.json
+2025-09-17 00:09:08,698 - config.settings - INFO - Configuration file loaded: /Users/lianbin/workdir/_codes_/New_Project/ai_assisted_group_managesystem/lab_asset_manager/config.json
+2025-09-17 00:09:08,698 - __main__ - INFO - QR code generator initialized
+2025-09-17 00:09:08,698 - __main__ - INFO - Starting Lab Asset Manager Web API Server...
+2025-09-17 00:09:08,716 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://172.29.232.152:5001
+2025-09-17 00:09:08,716 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-09-17 00:12:33,546 - werkzeug - INFO - 127.0.0.1 - - [17/Sep/2025 00:12:33] "[33mGET /health HTTP/1.1[0m" 404 -
+2025-09-17 00:12:47,822 - werkzeug - INFO - 127.0.0.1 - - [17/Sep/2025 00:12:47] "GET /api/health HTTP/1.1" 200 -
+2025-09-17 00:13:24,460 - werkzeug - INFO - 127.0.0.1 - - [17/Sep/2025 00:13:24] "GET /api/health HTTP/1.1" 200 -
+2025-09-17 00:14:05,478 - __main__ - ERROR - Error getting camera status: 'CameraManager' object has no attribute 'get_status'
+2025-09-17 00:14:05,479 - werkzeug - INFO - 127.0.0.1 - - [17/Sep/2025 00:14:05] "[35m[1mGET /api/camera/status HTTP/1.1[0m" 500 -
+2025-09-17 00:14:14,631 - __main__ - ERROR - Error getting camera status: 'CameraManager' object has no attribute 'get_status'
+2025-09-17 00:14:14,632 - werkzeug - INFO - 127.0.0.1 - - [17/Sep/2025 00:14:14] "[35m[1mGET /api/camera/status HTTP/1.1[0m" 500 -
+2025-09-17 00:15:34,623 - __main__ - ERROR - Error getting camera status: 'CameraManager' object has no attribute 'get_status'
+2025-09-17 00:15:34,623 - werkzeug - INFO - 127.0.0.1 - - [17/Sep/2025 00:15:34] "[35m[1mGET /api/camera/status HTTP/1.1[0m" 500 -
+2025-09-17 00:15:52,370 - __main__ - INFO - Configuration manager initialized
+2025-09-17 00:15:52,371 - config.settings - INFO - Configuration file loaded: /Users/lianbin/workdir/_codes_/New_Project/ai_assisted_group_managesystem/lab_asset_manager/config.json
+2025-09-17 00:15:52,371 - __main__ - INFO - Camera manager initialized
+2025-09-17 00:15:52,371 - config.settings - INFO - Configuration file loaded: /Users/lianbin/workdir/_codes_/New_Project/ai_assisted_group_managesystem/lab_asset_manager/config.json
+2025-09-17 00:15:52,371 - llm.llm_manager - INFO - Initialized OpenAI LLM (model: gpt-4-turbo)
+2025-09-17 00:15:52,371 - __main__ - INFO - LLM manager initialized
+2025-09-17 00:15:52,371 - config.settings - INFO - Configuration file loaded: /Users/lianbin/workdir/_codes_/New_Project/ai_assisted_group_managesystem/lab_asset_manager/config.json
+2025-09-17 00:15:52,904 - elabftw.elab_manager - INFO - Successfully connected to elabFTW API: https://10.159.65.92:3148/api/v2
+2025-09-17 00:15:52,904 - __main__ - INFO - ELabFTW manager initialized
+2025-09-17 00:15:52,904 - config.settings - INFO - Configuration file loaded: /Users/lianbin/workdir/_codes_/New_Project/ai_assisted_group_managesystem/lab_asset_manager/config.json
+2025-09-17 00:15:52,905 - config.settings - INFO - Configuration file loaded: /Users/lianbin/workdir/_codes_/New_Project/ai_assisted_group_managesystem/lab_asset_manager/config.json
+2025-09-17 00:15:52,905 - __main__ - INFO - QR code generator initialized
+2025-09-17 00:15:52,905 - __main__ - INFO - Starting Lab Asset Manager Web API Server...
+2025-09-17 00:15:56,495 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://172.29.232.152:5001
+2025-09-17 00:15:56,495 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-09-17 00:16:06,735 - werkzeug - INFO - 127.0.0.1 - - [17/Sep/2025 00:16:06] "GET /api/camera/status HTTP/1.1" 200 -
+2025-09-17 00:16:17,279 - werkzeug - INFO - 127.0.0.1 - - [17/Sep/2025 00:16:17] "GET /api/camera/status HTTP/1.1" 200 -
+2025-09-17 00:16:41,965 - werkzeug - INFO - 127.0.0.1 - - [17/Sep/2025 00:16:41] "[33mGET /api/llm/status HTTP/1.1[0m" 404 -
+2025-09-17 00:16:56,379 - werkzeug - INFO - 127.0.0.1 - - [17/Sep/2025 00:16:56] "[33mGET /api/elab/status HTTP/1.1[0m" 404 -
+2025-09-17 00:17:24,109 - werkzeug - INFO - 127.0.0.1 - - [17/Sep/2025 00:17:24] "GET /api/elab/items HTTP/1.1" 200 -
+2025-09-17 00:20:38,082 - __main__ - INFO - Configuration manager initialized
+2025-09-17 00:20:38,084 - config.settings - INFO - Configuration file loaded: /Users/lianbin/workdir/_codes_/New_Project/ai_assisted_group_managesystem/lab_asset_manager/config.json
+2025-09-17 00:20:38,084 - __main__ - INFO - Camera manager initialized
+2025-09-17 00:20:38,084 - config.settings - INFO - Configuration file loaded: /Users/lianbin/workdir/_codes_/New_Project/ai_assisted_group_managesystem/lab_asset_manager/config.json
+2025-09-17 00:20:38,084 - llm.llm_manager - INFO - Initialized OpenAI LLM (model: gpt-4-turbo)
+2025-09-17 00:20:38,084 - __main__ - INFO - LLM manager initialized
+2025-09-17 00:20:38,084 - config.settings - INFO - Configuration file loaded: /Users/lianbin/workdir/_codes_/New_Project/ai_assisted_group_managesystem/lab_asset_manager/config.json
+2025-09-17 00:20:38,611 - elabftw.elab_manager - INFO - Successfully connected to elabFTW API: https://10.159.65.92:3148/api/v2
+2025-09-17 00:20:38,612 - __main__ - INFO - ELabFTW manager initialized
+2025-09-17 00:20:38,612 - config.settings - INFO - Configuration file loaded: /Users/lianbin/workdir/_codes_/New_Project/ai_assisted_group_managesystem/lab_asset_manager/config.json
+2025-09-17 00:20:38,613 - config.settings - INFO - Configuration file loaded: /Users/lianbin/workdir/_codes_/New_Project/ai_assisted_group_managesystem/lab_asset_manager/config.json
+2025-09-17 00:20:38,613 - __main__ - INFO - QR code generator initialized
+2025-09-17 00:20:38,613 - __main__ - INFO - Starting Lab Asset Manager Web API Server...
+2025-09-17 00:20:38,637 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://172.29.232.152:5001
+2025-09-17 00:20:38,637 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-09-17 00:22:09,125 - werkzeug - INFO - 127.0.0.1 - - [17/Sep/2025 00:22:09] "GET /api/llm/settings HTTP/1.1" 200 -
+2025-09-17 00:30:24,493 - __main__ - INFO - Configuration manager initialized
+2025-09-17 00:30:24,494 - config.settings - INFO - Configuration file loaded: /Users/lianbin/workdir/_codes_/New_Project/ai_assisted_group_managesystem/lab_asset_manager/config.json
+2025-09-17 00:30:24,494 - __main__ - INFO - Camera manager initialized
+2025-09-17 00:30:24,494 - config.settings - INFO - Configuration file loaded: /Users/lianbin/workdir/_codes_/New_Project/ai_assisted_group_managesystem/lab_asset_manager/config.json
+2025-09-17 00:30:24,494 - llm.llm_manager - INFO - Initialized OpenAI LLM (model: gpt-4-turbo)
+2025-09-17 00:30:24,494 - __main__ - INFO - LLM manager initialized
+2025-09-17 00:30:24,494 - config.settings - INFO - Configuration file loaded: /Users/lianbin/workdir/_codes_/New_Project/ai_assisted_group_managesystem/lab_asset_manager/config.json
+2025-09-17 00:30:25,066 - elabftw.elab_manager - INFO - Successfully connected to elabFTW API: https://10.159.65.92:3148/api/v2
+2025-09-17 00:30:25,067 - __main__ - INFO - ELabFTW manager initialized
+2025-09-17 00:30:25,067 - config.settings - INFO - Configuration file loaded: /Users/lianbin/workdir/_codes_/New_Project/ai_assisted_group_managesystem/lab_asset_manager/config.json
+2025-09-17 00:30:25,067 - config.settings - INFO - Configuration file loaded: /Users/lianbin/workdir/_codes_/New_Project/ai_assisted_group_managesystem/lab_asset_manager/config.json
+2025-09-17 00:30:25,067 - __main__ - INFO - QR code generator initialized
+2025-09-17 00:30:25,067 - __main__ - INFO - Starting Lab Asset Manager Web API Server...
+2025-09-17 00:30:25,113 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://172.29.232.152:5001
+2025-09-17 00:30:25,113 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-09-17 00:30:38,676 - werkzeug - INFO - 127.0.0.1 - - [17/Sep/2025 00:30:38] "GET /api/elab/items HTTP/1.1" 200 -
+2025-09-17 00:31:01,655 - werkzeug - INFO - 127.0.0.1 - - [17/Sep/2025 00:31:01] "GET /api/llm/settings HTTP/1.1" 200 -
+2025-09-17 00:32:38,734 - elabftw.elab_manager - INFO - Retrieved elabFTW settings
+2025-09-17 00:32:38,736 - werkzeug - INFO - 127.0.0.1 - - [17/Sep/2025 00:32:38] "GET /api/elab/settings HTTP/1.1" 200 -
+2025-09-17 00:32:48,211 - urllib3.connectionpool - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x1242e5210>: Failed to resolve 'test.example.com' ([Errno 8] nodename nor servname provided, or not known)")': /api/v2/info
+2025-09-17 00:32:48,214 - urllib3.connectionpool - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x1242e5de0>: Failed to resolve 'test.example.com' ([Errno 8] nodename nor servname provided, or not known)")': /api/v2/info
+2025-09-17 00:32:48,216 - urllib3.connectionpool - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x1242e7730>: Failed to resolve 'test.example.com' ([Errno 8] nodename nor servname provided, or not known)")': /api/v2/info
+2025-09-17 00:32:48,217 - elabftw.elab_manager - ERROR - Failed to connect to elabFTW API: HTTPSConnectionPool(host='test.example.com', port=443): Max retries exceeded with url: /api/v2/info (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x1242e5db0>: Failed to resolve 'test.example.com' ([Errno 8] nodename nor servname provided, or not known)"))
+2025-09-17 00:32:48,217 - elabftw.elab_manager - INFO - Updated elabFTW settings: {'success': False, 'message': 'Failed to update settings', 'timestamp': '{"url": "https://test.example.com/api/v2", "token": "test_token", "verifySSL": true}'}
+2025-09-17 00:32:48,217 - werkzeug - INFO - 127.0.0.1 - - [17/Sep/2025 00:32:48] "POST /api/elab/settings HTTP/1.1" 200 -
+2025-09-17 00:33:02,023 - elabftw.elab_manager - ERROR - Failed to connect to elabFTW API: (401)
+Reason: Unauthorized
+HTTP response headers: HTTPHeaderDict({'Content-Type': 'application/json', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'Cache-Control': 'max-age=0, private, must-revalidate, no-cache, private', 'Set-Cookie': 'PHPSESSID=2b69bd3f5c3ee475f04c9fac8b35e004; path=/; secure; HttpOnly; SameSite=Lax', 'Date': 'Wed, 17 Sep 2025 05:33:02 GMT', 'Strict-Transport-Security': 'max-age=63072000', 'X-XSS-Protection': '0', 'X-Content-Type-Options': 'nosniff', 'Content-Security-Policy': "default-src 'self' data:; script-src 'self' ; connect-src 'self' blob: https://get.elabftw.net https://pubchem.ncbi.nlm.nih.gov; img-src 'self' data: blob:; style-src 'self' 'unsafe-inline'; font-src 'self' data:; object-src 'self'; base-uri 'none'; frame-ancestors 'self'", 'Referrer-Policy': 'no-referrer', 'Permissions-Policy': "autoplay 'none'; camera 'self'; document-domain 'none'; encrypted-media 'none'; fullscreen 'self'; geolocation 'none'; microphone 'self'; midi 'none'; payment 'none'; vr 'none'", 'Vary': 'Accept-Encoding', 'Server': '666', 'Access-Control-Allow-Credentials': 'true', 'Access-Control-Expose-Headers': 'Location, Content-Encoding, Content-Disposition, Cache-Control'})
+HTTP response body: b'{"code":401,"message":"Unauthorized","description":"No corresponding API key found!"}'
+
+2025-09-17 00:33:02,025 - elabftw.elab_manager - INFO - Updated elabFTW settings: {'success': False, 'message': 'Failed to update settings', 'timestamp': '{"url": "https://10.159.65.92:3148/api/v2", "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvMTAuMTU5LjY1LjkyOjMxNDgiLCJhdWQiOiJodHRwczpcL1wvMTAuMTU5LjY1LjkyOjMxNDgiLCJpYXQiOjE3MjY0OTU4MDMsIm5iZiI6MTcyNjQ5NTgwMywiZXhwIjoxNzU4MDMxODAzLCJkYXRhIjp7InVzZXJpZCI6IjEiLCJ0ZWFtIjoiMSJ9fQ.Ej5Uy8Ej5Uy8Ej5Uy8Ej5Uy8Ej5Uy8Ej5Uy8Ej5Uy8", "verifySSL": false}'}
+2025-09-17 00:33:02,025 - werkzeug - INFO - 127.0.0.1 - - [17/Sep/2025 00:33:02] "POST /api/elab/settings HTTP/1.1" 200 -
+2025-09-17 00:33:14,134 - werkzeug - INFO - 127.0.0.1 - - [17/Sep/2025 00:33:14] "GET /api/llm/settings HTTP/1.1" 200 -
+2025-09-17 00:34:12,447 - __main__ - INFO - Configuration manager initialized
+2025-09-17 00:34:12,447 - config.settings - INFO - Configuration file loaded: /Users/lianbin/workdir/_codes_/New_Project/ai_assisted_group_managesystem/lab_asset_manager/config.json
+2025-09-17 00:34:12,448 - __main__ - INFO - Camera manager initialized
+2025-09-17 00:34:12,448 - config.settings - INFO - Configuration file loaded: /Users/lianbin/workdir/_codes_/New_Project/ai_assisted_group_managesystem/lab_asset_manager/config.json
+2025-09-17 00:34:12,448 - llm.llm_manager - INFO - Initialized OpenAI LLM (model: gpt-4-turbo)
+2025-09-17 00:34:12,448 - __main__ - INFO - LLM manager initialized
+2025-09-17 00:34:12,448 - config.settings - INFO - Configuration file loaded: /Users/lianbin/workdir/_codes_/New_Project/ai_assisted_group_managesystem/lab_asset_manager/config.json
+2025-09-17 00:34:12,976 - elabftw.elab_manager - INFO - Successfully connected to elabFTW API: https://10.159.65.92:3148/api/v2
+2025-09-17 00:34:12,976 - __main__ - INFO - ELabFTW manager initialized
+2025-09-17 00:34:12,976 - config.settings - INFO - Configuration file loaded: /Users/lianbin/workdir/_codes_/New_Project/ai_assisted_group_managesystem/lab_asset_manager/config.json
+2025-09-17 00:34:12,976 - config.settings - INFO - Configuration file loaded: /Users/lianbin/workdir/_codes_/New_Project/ai_assisted_group_managesystem/lab_asset_manager/config.json
+2025-09-17 00:34:12,976 - __main__ - INFO - QR code generator initialized
+2025-09-17 00:34:12,977 - __main__ - INFO - Starting Lab Asset Manager Web API Server...
+2025-09-17 00:34:13,019 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://172.29.232.152:5001
+2025-09-17 00:34:13,019 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-09-17 00:35:51,978 - werkzeug - INFO - 127.0.0.1 - - [17/Sep/2025 00:35:51] "GET /api/llm/settings HTTP/1.1" 200 -
+2025-09-17 00:36:57,172 - werkzeug - INFO - 127.0.0.1 - - [17/Sep/2025 00:36:57] "GET /api/elab/items HTTP/1.1" 200 -
+2025-09-17 00:37:13,632 - werkzeug - INFO - 127.0.0.1 - - [17/Sep/2025 00:37:13] "GET /api/elab/items HTTP/1.1" 200 -
+2025-09-17 00:37:31,437 - werkzeug - INFO - 127.0.0.1 - - [17/Sep/2025 00:37:31] "GET /api/elab/items HTTP/1.1" 200 -
+2025-09-17 00:37:40,258 - elabftw.elab_manager - INFO - Retrieved elabFTW settings
+2025-09-17 00:37:40,259 - werkzeug - INFO - 127.0.0.1 - - [17/Sep/2025 00:37:40] "GET /api/elab/settings HTTP/1.1" 200 -
+2025-09-17 00:37:46,550 - werkzeug - INFO - 127.0.0.1 - - [17/Sep/2025 00:37:46] "GET /api/llm/settings HTTP/1.1" 200 -
+2025-09-17 00:53:56,923 - __main__ - INFO - Configuration manager initialized
+2025-09-17 00:53:56,924 - config.settings - INFO - Configuration file loaded: /Users/lianbin/workdir/_codes_/New_Project/ai_assisted_group_managesystem/lab_asset_manager/config.json
+2025-09-17 00:53:56,925 - __main__ - INFO - Camera manager initialized
+2025-09-17 00:53:56,925 - config.settings - INFO - Configuration file loaded: /Users/lianbin/workdir/_codes_/New_Project/ai_assisted_group_managesystem/lab_asset_manager/config.json
+2025-09-17 00:53:56,925 - llm.llm_manager - INFO - Initialized OpenAI LLM (model: gpt-4-turbo)
+2025-09-17 00:53:56,925 - __main__ - INFO - LLM manager initialized
+2025-09-17 00:53:56,925 - config.settings - INFO - Configuration file loaded: /Users/lianbin/workdir/_codes_/New_Project/ai_assisted_group_managesystem/lab_asset_manager/config.json
+2025-09-17 00:53:57,478 - elabftw.elab_manager - INFO - Successfully connected to elabFTW API: https://10.159.65.92:3148/api/v2
+2025-09-17 00:53:57,478 - __main__ - INFO - ELabFTW manager initialized
+2025-09-17 00:53:57,478 - config.settings - INFO - Configuration file loaded: /Users/lianbin/workdir/_codes_/New_Project/ai_assisted_group_managesystem/lab_asset_manager/config.json
+2025-09-17 00:53:57,479 - config.settings - INFO - Configuration file loaded: /Users/lianbin/workdir/_codes_/New_Project/ai_assisted_group_managesystem/lab_asset_manager/config.json
+2025-09-17 00:53:57,479 - __main__ - INFO - QR code generator initialized
+2025-09-17 00:53:57,479 - __main__ - INFO - Starting Lab Asset Manager Web API Server...
+2025-09-17 00:53:57,499 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://172.29.232.152:5001
+2025-09-17 00:53:57,499 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-09-17 00:54:28,108 - werkzeug - INFO - 127.0.0.1 - - [17/Sep/2025 00:54:28] "GET /socket.io/?EIO=4&transport=polling&t=khbwl6t1 HTTP/1.1" 200 -
+2025-09-17 00:54:28,126 - __main__ - INFO - Client connected
+2025-09-17 00:54:28,127 - werkzeug - INFO - 127.0.0.1 - - [17/Sep/2025 00:54:28] "POST /socket.io/?EIO=4&transport=polling&t=khbx66d0&sid=ZbRcsUVV0NOC-JrMAAAA HTTP/1.1" 200 -
+2025-09-17 00:54:28,129 - werkzeug - INFO - 127.0.0.1 - - [17/Sep/2025 00:54:28] "GET /socket.io/?EIO=4&transport=polling&t=khbx7zq8&sid=ZbRcsUVV0NOC-JrMAAAA HTTP/1.1" 200 -
+2025-09-17 00:54:28,140 - werkzeug - INFO - 127.0.0.1 - - [17/Sep/2025 00:54:28] "GET /socket.io/?EIO=4&transport=polling&t=khbxjnty&sid=ZbRcsUVV0NOC-JrMAAAA HTTP/1.1" 200 -
+2025-09-17 00:54:42,665 - werkzeug - INFO - 127.0.0.1 - - [17/Sep/2025 00:54:42] "[33mPOST /api/camera/upload HTTP/1.1[0m" 404 -
+2025-09-17 00:58:09,661 - werkzeug - INFO - 127.0.0.1 - - [17/Sep/2025 00:58:09] "GET /socket.io/?EIO=4&transport=polling&t=km2uon8s HTTP/1.1" 200 -
+2025-09-17 00:58:09,663 - werkzeug - INFO - 127.0.0.1 - - [17/Sep/2025 00:58:09] "GET /socket.io/?EIO=4&transport=polling&t=km2v1j95 HTTP/1.1" 200 -
+2025-09-17 00:58:09,727 - __main__ - INFO - Client connected
+2025-09-17 00:58:09,729 - werkzeug - INFO - 127.0.0.1 - - [17/Sep/2025 00:58:09] "POST /socket.io/?EIO=4&transport=polling&t=km2w7ucj&sid=BmjLim_uh27WaL1mAAAC HTTP/1.1" 200 -
+2025-09-17 00:58:09,729 - werkzeug - INFO - 127.0.0.1 - - [17/Sep/2025 00:58:09] "GET /socket.io/?EIO=4&transport=polling&t=km2wanpk&sid=BmjLim_uh27WaL1mAAAC HTTP/1.1" 200 -
+2025-09-17 00:58:09,738 - __main__ - INFO - Client connected
+2025-09-17 00:58:09,738 - werkzeug - INFO - 127.0.0.1 - - [17/Sep/2025 00:58:09] "POST /socket.io/?EIO=4&transport=polling&t=km2wczcn&sid=d_67RFiH1hmQQJbjAAAD HTTP/1.1" 200 -
+2025-09-17 00:58:09,739 - werkzeug - INFO - 127.0.0.1 - - [17/Sep/2025 00:58:09] "GET /socket.io/?EIO=4&transport=polling&t=km2wce4w&sid=d_67RFiH1hmQQJbjAAAD HTTP/1.1" 200 -
+2025-09-17 00:58:09,774 - werkzeug - INFO - 127.0.0.1 - - [17/Sep/2025 00:58:09] "GET /socket.io/?EIO=4&transport=polling&t=km2xzz6f&sid=BmjLim_uh27WaL1mAAAC HTTP/1.1" 200 -
+2025-09-17 00:58:09,775 - werkzeug - INFO - 127.0.0.1 - - [17/Sep/2025 00:58:09] "GET /socket.io/?EIO=4&transport=polling&t=km2y0gub&sid=d_67RFiH1hmQQJbjAAAD HTTP/1.1" 200 -
+2025-09-17 00:58:14,907 - __main__ - INFO - Client disconnected
+2025-09-17 00:58:14,908 - __main__ - INFO - Client disconnected
+2025-09-17 00:58:14,921 - werkzeug - INFO - 127.0.0.1 - - [17/Sep/2025 00:58:14] "GET /socket.io/?EIO=4&transport=websocket&sid=BmjLim_uh27WaL1mAAAC HTTP/1.1" 200 -
+2025-09-17 00:58:14,922 - werkzeug - INFO - 127.0.0.1 - - [17/Sep/2025 00:58:14] "GET /socket.io/?EIO=4&transport=websocket&sid=d_67RFiH1hmQQJbjAAAD HTTP/1.1" 200 -
+2025-09-17 00:58:16,540 - __main__ - INFO - Client disconnected
+2025-09-17 00:58:16,541 - werkzeug - INFO - 127.0.0.1 - - [17/Sep/2025 00:58:16] "GET /socket.io/?EIO=4&transport=websocket&sid=ZbRcsUVV0NOC-JrMAAAA HTTP/1.1" 200 -
+2025-09-17 00:58:16,655 - werkzeug - INFO - 127.0.0.1 - - [17/Sep/2025 00:58:16] "GET /socket.io/?EIO=4&transport=polling&t=km8962ei HTTP/1.1" 200 -
+2025-09-17 00:58:16,660 - werkzeug - INFO - 127.0.0.1 - - [17/Sep/2025 00:58:16] "GET /socket.io/?EIO=4&transport=polling&t=km89ez4m HTTP/1.1" 200 -
+2025-09-17 00:58:16,668 - __main__ - INFO - Client connected
+2025-09-17 00:58:16,669 - werkzeug - INFO - 127.0.0.1 - - [17/Sep/2025 00:58:16] "POST /socket.io/?EIO=4&transport=polling&t=km89lmyz&sid=M-vDq2sNtHBYrL6DAAAG HTTP/1.1" 200 -
+2025-09-17 00:58:16,670 - werkzeug - INFO - 127.0.0.1 - - [17/Sep/2025 00:58:16] "GET /socket.io/?EIO=4&transport=polling&t=km89mwt9&sid=M-vDq2sNtHBYrL6DAAAG HTTP/1.1" 200 -
+2025-09-17 00:58:16,672 - __main__ - INFO - Client connected
+2025-09-17 00:58:16,672 - werkzeug - INFO - 127.0.0.1 - - [17/Sep/2025 00:58:16] "POST /socket.io/?EIO=4&transport=polling&t=km89mied&sid=rvqVGQuV3itCEKqZAAAH HTTP/1.1" 200 -
+2025-09-17 00:58:16,673 - werkzeug - INFO - 127.0.0.1 - - [17/Sep/2025 00:58:16] "GET /socket.io/?EIO=4&transport=polling&t=km89mmqb&sid=rvqVGQuV3itCEKqZAAAH HTTP/1.1" 200 -
+2025-09-17 00:58:16,673 - werkzeug - INFO - 127.0.0.1 - - [17/Sep/2025 00:58:16] "GET /socket.io/?EIO=4&transport=polling&t=km89sa9i&sid=M-vDq2sNtHBYrL6DAAAG HTTP/1.1" 200 -
+2025-09-17 00:58:16,682 - werkzeug - INFO - 127.0.0.1 - - [17/Sep/2025 00:58:16] "GET /socket.io/?EIO=4&transport=polling&t=km89uq1k&sid=rvqVGQuV3itCEKqZAAAH HTTP/1.1" 200 -
+2025-09-17 00:58:20,082 - werkzeug - INFO - 127.0.0.1 - - [17/Sep/2025 00:58:20] "[33mPOST /api/camera/upload HTTP/1.1[0m" 404 -
+2025-09-17 16:59:54,858 - __main__ - INFO - Configuration manager initialized
+2025-09-17 16:59:54,859 - config.settings - INFO - Configuration file loaded: /Users/lianbin/workdir/_codes_/New_Project/ai_assisted_group_managesystem/lab_asset_manager/config.json
+2025-09-17 16:59:54,859 - __main__ - INFO - Camera manager initialized
+2025-09-17 16:59:54,859 - config.settings - INFO - Configuration file loaded: /Users/lianbin/workdir/_codes_/New_Project/ai_assisted_group_managesystem/lab_asset_manager/config.json
+2025-09-17 16:59:54,859 - llm.llm_manager - INFO - Initialized OpenAI LLM (model: gpt-4-turbo)
+2025-09-17 16:59:54,859 - __main__ - INFO - LLM manager initialized
+2025-09-17 16:59:54,859 - config.settings - INFO - Configuration file loaded: /Users/lianbin/workdir/_codes_/New_Project/ai_assisted_group_managesystem/lab_asset_manager/config.json
+2025-09-17 16:59:55,438 - elabftw.elab_manager - INFO - Successfully connected to elabFTW API: https://10.159.65.92:3148/api/v2
+2025-09-17 16:59:55,438 - __main__ - INFO - ELabFTW manager initialized
+2025-09-17 16:59:55,439 - config.settings - INFO - Configuration file loaded: /Users/lianbin/workdir/_codes_/New_Project/ai_assisted_group_managesystem/lab_asset_manager/config.json
+2025-09-17 16:59:55,439 - config.settings - INFO - Configuration file loaded: /Users/lianbin/workdir/_codes_/New_Project/ai_assisted_group_managesystem/lab_asset_manager/config.json
+2025-09-17 16:59:55,439 - __main__ - INFO - QR code generator initialized
+2025-09-17 16:59:55,439 - __main__ - INFO - Starting Lab Asset Manager Web API Server...
+2025-09-17 16:59:55,509 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://10.150.199.212:5001
+2025-09-17 16:59:55,510 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-09-17 17:01:20,239 - werkzeug - INFO - 127.0.0.1 - - [17/Sep/2025 17:01:20] "GET /api/camera/status HTTP/1.1" 200 -
+2025-09-17 17:01:27,832 - werkzeug - INFO - 127.0.0.1 - - [17/Sep/2025 17:01:27] "GET /api/llm/settings HTTP/1.1" 200 -
+2025-09-17 17:01:37,074 - elabftw.elab_manager - INFO - Retrieved elabFTW settings
+2025-09-17 17:01:37,075 - werkzeug - INFO - 127.0.0.1 - - [17/Sep/2025 17:01:37] "GET /api/elab/settings HTTP/1.1" 200 -
+2025-09-17 17:02:05,954 - werkzeug - INFO - 127.0.0.1 - - [17/Sep/2025 17:02:05] "GET /socket.io/?EIO=4&transport=polling&t=j1pmkngx HTTP/1.1" 200 -
+2025-09-17 17:02:06,021 - __main__ - INFO - Client connected
+2025-09-17 17:02:06,023 - werkzeug - INFO - 127.0.0.1 - - [17/Sep/2025 17:02:06] "POST /socket.io/?EIO=4&transport=polling&t=j1po6zkm&sid=ebfM6fDIlw4sbgWzAAAA HTTP/1.1" 200 -
+2025-09-17 17:02:06,042 - werkzeug - INFO - 127.0.0.1 - - [17/Sep/2025 17:02:06] "GET /socket.io/?EIO=4&transport=polling&t=j1po8nl5&sid=ebfM6fDIlw4sbgWzAAAA HTTP/1.1" 200 -
+2025-09-17 17:02:06,046 - werkzeug - INFO - 127.0.0.1 - - [17/Sep/2025 17:02:06] "GET /socket.io/?EIO=4&transport=polling&t=j1pp92u6&sid=ebfM6fDIlw4sbgWzAAAA HTTP/1.1" 200 -
+2025-09-17 17:02:11,056 - werkzeug - INFO - 127.0.0.1 - - [17/Sep/2025 17:02:11] "[33mPOST /api/camera/upload HTTP/1.1[0m" 404 -
+2025-09-17 17:02:13,107 - __main__ - INFO - Client disconnected
+2025-09-17 17:02:13,108 - werkzeug - INFO - 127.0.0.1 - - [17/Sep/2025 17:02:13] "GET /socket.io/?EIO=4&transport=websocket&sid=ebfM6fDIlw4sbgWzAAAA HTTP/1.1" 200 -
+2025-09-17 17:05:32,702 - werkzeug - INFO - 127.0.0.1 - - [17/Sep/2025 17:05:32] "GET /socket.io/?EIO=4&transport=polling&t=j6558sd3 HTTP/1.1" 200 -
+2025-09-17 17:05:32,721 - __main__ - INFO - Client connected
+2025-09-17 17:05:32,725 - werkzeug - INFO - 127.0.0.1 - - [17/Sep/2025 17:05:32] "POST /socket.io/?EIO=4&transport=polling&t=j65648to&sid=NLNCVq5GyW1B_d8LAAAC HTTP/1.1" 200 -
+2025-09-17 17:05:32,725 - werkzeug - INFO - 127.0.0.1 - - [17/Sep/2025 17:05:32] "GET /socket.io/?EIO=4&transport=polling&t=j6564tav&sid=NLNCVq5GyW1B_d8LAAAC HTTP/1.1" 200 -
+2025-09-17 17:05:36,305 - werkzeug - INFO - 127.0.0.1 - - [17/Sep/2025 17:05:36] "[33mPOST /api/camera/upload HTTP/1.1[0m" 404 -
+2025-09-17 17:08:03,263 - elabftw.elab_manager - INFO - Retrieved elabFTW settings
+2025-09-17 17:08:03,265 - werkzeug - INFO - 127.0.0.1 - - [17/Sep/2025 17:08:03] "GET /api/elab/settings HTTP/1.1" 200 -
+2025-09-17 17:09:05,057 - werkzeug - INFO - 127.0.0.1 - - [17/Sep/2025 17:09:05] "GET /api/camera/status HTTP/1.1" 200 -
+2025-09-17 17:09:19,523 - werkzeug - INFO - 127.0.0.1 - - [17/Sep/2025 17:09:19] "[31m[1mGET /api/camera/capture HTTP/1.1[0m" 405 -
+2025-09-17 17:09:53,289 - camera.camera_manager - INFO - 摄像头初始化成功 (ID: 0, 分辨率: (1280, 720))
+2025-09-17 17:09:55,393 - werkzeug - INFO - 127.0.0.1 - - [17/Sep/2025 17:09:55] "POST /api/camera/capture HTTP/1.1" 200 -
+2025-09-17 17:12:11,537 - __main__ - INFO - Client disconnected
+2025-09-17 17:12:11,545 - werkzeug - INFO - 127.0.0.1 - - [17/Sep/2025 17:12:11] "GET /socket.io/?EIO=4&transport=websocket&sid=NLNCVq5GyW1B_d8LAAAC HTTP/1.1" 200 -
+2025-09-17 17:12:11,602 - werkzeug - INFO - 127.0.0.1 - - [17/Sep/2025 17:12:11] "GET /socket.io/?EIO=4&transport=polling&t=jeoxyc36 HTTP/1.1" 200 -
+2025-09-17 17:12:11,615 - __main__ - INFO - Client connected
+2025-09-17 17:12:11,623 - werkzeug - INFO - 127.0.0.1 - - [17/Sep/2025 17:12:11] "POST /socket.io/?EIO=4&transport=polling&t=jeoykjuq&sid=zc6PnbWnB9Tq9_eTAAAE HTTP/1.1" 200 -
+2025-09-17 17:12:11,623 - werkzeug - INFO - 127.0.0.1 - - [17/Sep/2025 17:12:11] "GET /socket.io/?EIO=4&transport=polling&t=jeoylw22&sid=zc6PnbWnB9Tq9_eTAAAE HTTP/1.1" 200 -
+2025-09-17 17:12:11,629 - werkzeug - INFO - 127.0.0.1 - - [17/Sep/2025 17:12:11] "GET /socket.io/?EIO=4&transport=polling&t=jeoz0dk2&sid=zc6PnbWnB9Tq9_eTAAAE HTTP/1.1" 200 -
+2025-09-17 17:12:35,446 - __main__ - INFO - Client disconnected
+2025-09-17 17:12:35,446 - werkzeug - INFO - 127.0.0.1 - - [17/Sep/2025 17:12:35] "GET /socket.io/?EIO=4&transport=websocket&sid=zc6PnbWnB9Tq9_eTAAAE HTTP/1.1" 200 -
+2025-09-17 17:15:37,459 - werkzeug - INFO - 127.0.0.1 - - [17/Sep/2025 17:15:37] "[33mPOST /api/camera/start HTTP/1.1[0m" 404 -
+2025-09-17 17:15:55,017 - __main__ - INFO - Configuration manager initialized
+2025-09-17 17:15:55,018 - config.settings - INFO - Configuration file loaded: /Users/lianbin/workdir/_codes_/New_Project/ai_assisted_group_managesystem/lab_asset_manager/config.json
+2025-09-17 17:15:55,018 - __main__ - INFO - Camera manager initialized
+2025-09-17 17:15:55,018 - config.settings - INFO - Configuration file loaded: /Users/lianbin/workdir/_codes_/New_Project/ai_assisted_group_managesystem/lab_asset_manager/config.json
+2025-09-17 17:15:55,018 - llm.llm_manager - INFO - Initialized OpenAI LLM (model: gpt-4-turbo)
+2025-09-17 17:15:55,018 - __main__ - INFO - LLM manager initialized
+2025-09-17 17:15:55,018 - config.settings - INFO - Configuration file loaded: /Users/lianbin/workdir/_codes_/New_Project/ai_assisted_group_managesystem/lab_asset_manager/config.json
+2025-09-17 17:15:55,663 - elabftw.elab_manager - INFO - Successfully connected to elabFTW API: https://10.159.65.92:3148/api/v2
+2025-09-17 17:15:55,664 - __main__ - INFO - ELabFTW manager initialized
+2025-09-17 17:15:55,665 - config.settings - INFO - Configuration file loaded: /Users/lianbin/workdir/_codes_/New_Project/ai_assisted_group_managesystem/lab_asset_manager/config.json
+2025-09-17 17:15:55,666 - config.settings - INFO - Configuration file loaded: /Users/lianbin/workdir/_codes_/New_Project/ai_assisted_group_managesystem/lab_asset_manager/config.json
+2025-09-17 17:15:55,666 - __main__ - INFO - QR code generator initialized
+2025-09-17 17:15:55,666 - __main__ - INFO - Starting Lab Asset Manager Web API Server...
+2025-09-17 17:15:55,734 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://10.150.199.212:5001
+2025-09-17 17:15:55,734 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-09-17 17:16:01,767 - werkzeug - INFO - 127.0.0.1 - - [17/Sep/2025 17:16:01] "[33mPOST /api/camera/start HTTP/1.1[0m" 404 -
+2025-09-17 17:16:10,996 - camera.camera_manager - INFO - 摄像头初始化成功 (ID: 0, 分辨率: (1280, 720))
+2025-09-17 17:16:13,131 - werkzeug - INFO - 127.0.0.1 - - [17/Sep/2025 17:16:13] "POST /api/camera/capture HTTP/1.1" 200 -
+2025-09-17 17:24:22,113 - werkzeug - INFO - 127.0.0.1 - - [17/Sep/2025 17:24:22] "[33mPOST /api/camera/stop HTTP/1.1[0m" 404 -

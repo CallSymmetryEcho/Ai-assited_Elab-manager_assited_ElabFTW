@@ -1,0 +1,857 @@
+2025-09-10 23:02:27,768 - utils.config_manager - INFO - 已保存配置文件: config.json
+2025-09-10 23:02:27,768 - utils.config_manager - INFO - 已创建默认配置文件: config.json
+2025-09-10 23:02:27,768 - llm.llm_manager - INFO - Initialized OpenAI LLM (model: gpt-4-vision-preview)
+2025-09-10 23:02:33,059 - urllib3.connectionpool - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x1273f1900>: Failed to resolve 'elab.local' ([Errno 8] nodename nor servname provided, or not known)")': /api/v2/info
+2025-09-10 23:02:38,066 - urllib3.connectionpool - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x1273f1ab0>: Failed to resolve 'elab.local' ([Errno 8] nodename nor servname provided, or not known)")': /api/v2/info
+2025-09-10 23:02:43,076 - urllib3.connectionpool - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x1273f1c30>: Failed to resolve 'elab.local' ([Errno 8] nodename nor servname provided, or not known)")': /api/v2/info
+2025-09-10 23:04:05,048 - utils.config_manager - INFO - 已加载配置文件: config.json
+2025-09-10 23:04:05,048 - llm.llm_manager - INFO - Initialized OpenAI LLM (model: gpt-4-vision-preview)
+2025-09-10 23:04:10,083 - urllib3.connectionpool - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x127234190>: Failed to resolve 'elab.local' ([Errno 8] nodename nor servname provided, or not known)")': /api/v2/info
+2025-09-10 23:04:20,680 - utils.config_manager - INFO - 已加载配置文件: config.json
+2025-09-10 23:04:20,680 - llm.llm_manager - INFO - Initialized OpenAI LLM (model: gpt-4-vision-preview)
+2025-09-10 23:04:25,733 - urllib3.connectionpool - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x125a98190>: Failed to resolve 'elab.local' ([Errno 8] nodename nor servname provided, or not known)")': /api/v2/info
+2025-09-10 23:04:30,740 - urllib3.connectionpool - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x125a98340>: Failed to resolve 'elab.local' ([Errno 8] nodename nor servname provided, or not known)")': /api/v2/info
+2025-09-10 23:04:35,745 - urllib3.connectionpool - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x125a984c0>: Failed to resolve 'elab.local' ([Errno 8] nodename nor servname provided, or not known)")': /api/v2/info
+2025-09-10 23:05:10,601 - utils.config_manager - INFO - 已保存配置文件: config.json
+2025-09-10 23:05:10,601 - utils.config_manager - INFO - 已创建默认配置文件: config.json
+2025-09-10 23:05:10,601 - llm.llm_manager - INFO - Initialized OpenAI LLM (model: gpt-4-vision-preview)
+2025-09-10 23:05:11,241 - elabftw.elab_manager - INFO - 已成功连接到elabFTW API: https://10.159.64.205:3148/api/v2
+2025-09-10 23:08:09,762 - __main__ - DEBUG - Debug mode enabled
+2025-09-10 23:08:09,762 - utils.config_manager - INFO - 已加载配置文件: config.json
+2025-09-10 23:08:09,762 - llm.llm_manager - INFO - Initialized OpenAI LLM (model: gpt-4-vision-preview)
+2025-09-10 23:08:10,310 - elabftw.elab_manager - INFO - 已成功连接到elabFTW API: https://10.159.64.205:3148/api/v2
+2025-09-10 23:08:12,624 - elabftw.elab_manager - ERROR - 获取物品模板失败: 'ItemsType' object has no attribute 'category'
+2025-09-10 23:08:12,625 - ui.main_window - INFO - 未找到模板
+2025-09-10 23:08:12,773 - camera.camera_manager - ERROR - 无法打开摄像头 (ID: 0)
+2025-09-10 23:08:12,774 - ui.main_window - INFO - 摄像头初始化失败: 无法打开摄像头 (ID: 0)
+2025-09-10 23:08:39,475 - camera.camera_manager - INFO - 摄像头资源已释放
+2025-09-10 23:08:39,479 - ui.main_window - INFO - 摄像头已停止
+2025-09-10 23:08:41,732 - __main__ - DEBUG - Debug mode enabled
+2025-09-10 23:08:41,733 - utils.config_manager - INFO - 已加载配置文件: config.json
+2025-09-10 23:08:41,733 - llm.llm_manager - INFO - Initialized OpenAI LLM (model: gpt-4-vision-preview)
+2025-09-10 23:08:42,276 - elabftw.elab_manager - INFO - 已成功连接到elabFTW API: https://10.159.64.205:3148/api/v2
+2025-09-10 23:08:42,817 - elabftw.elab_manager - ERROR - 获取物品模板失败: 'ItemsType' object has no attribute 'category'
+2025-09-10 23:08:42,817 - ui.main_window - INFO - 未找到模板
+2025-09-10 23:08:46,093 - camera.camera_manager - INFO - 摄像头初始化成功 (ID: 0, 分辨率: (1280, 720))
+2025-09-10 23:08:46,095 - ui.main_window - INFO - 摄像头已启动
+2025-09-10 23:08:55,495 - ui.main_window - INFO - 正在捕捉图像...
+2025-09-10 23:08:57,624 - camera.camera_manager - INFO - 图像已保存至: images/asset_20250910_230855.jpg
+2025-09-10 23:08:57,625 - ui.main_window - INFO - 图像已保存: images/asset_20250910_230855.jpg
+2025-09-10 23:09:11,048 - ui.main_window - INFO - Preparing analysis...
+2025-09-10 23:09:11,051 - ui.main_window - INFO - Please select a template
+2025-09-10 23:09:20,859 - camera.camera_manager - INFO - 摄像头资源已释放
+2025-09-10 23:09:20,860 - ui.main_window - INFO - 摄像头已停止
+2025-09-10 23:09:26,248 - utils.config_manager - INFO - 已加载配置文件: config.json
+2025-09-10 23:09:26,248 - llm.llm_manager - INFO - Initialized OpenAI LLM (model: gpt-4-vision-preview)
+2025-09-10 23:09:26,811 - elabftw.elab_manager - INFO - 已成功连接到elabFTW API: https://10.159.64.205:3148/api/v2
+2025-09-10 23:09:27,403 - elabftw.elab_manager - ERROR - 获取物品模板失败: 'ItemsType' object has no attribute 'category'
+2025-09-10 23:09:27,404 - ui.main_window - INFO - 未找到模板
+2025-09-10 23:09:29,134 - camera.camera_manager - INFO - 摄像头初始化成功 (ID: 0, 分辨率: (1280, 720))
+2025-09-10 23:09:29,136 - ui.main_window - INFO - 摄像头已启动
+2025-09-10 23:09:33,720 - camera.camera_manager - INFO - 摄像头资源已释放
+2025-09-10 23:09:33,721 - ui.main_window - INFO - 摄像头已停止
+2025-09-11 00:08:00,168 - utils.config_manager - INFO - 已加载配置文件: config.json
+2025-09-11 00:08:00,169 - llm.llm_manager - INFO - Initialized OpenAI LLM (model: gpt-4-vision-preview)
+2025-09-11 00:08:00,746 - elabftw.elab_manager - INFO - Successfully connected to elabFTW API: https://10.159.64.205:3148/api/v2
+2025-09-11 00:08:01,628 - ui.main_window - INFO - 已加载 6 个模板
+2025-09-11 00:08:06,441 - camera.camera_manager - ERROR - 无法从摄像头读取图像
+2025-09-11 00:08:06,468 - camera.camera_manager - INFO - 摄像头资源已释放
+2025-09-11 00:08:06,468 - ui.main_window - INFO - 摄像头初始化失败: 无法从摄像头读取图像
+2025-09-11 00:08:17,307 - ui.main_window - INFO - 摄像头已停止
+2025-09-11 00:11:05,859 - __main__ - DEBUG - Debug mode enabled
+2025-09-11 00:11:05,860 - utils.config_manager - INFO - 已加载配置文件: config.json
+2025-09-11 00:11:05,860 - llm.llm_manager - INFO - Initialized OpenAI LLM (model: gpt-4-vision-preview)
+2025-09-11 00:11:06,406 - elabftw.elab_manager - INFO - Successfully connected to elabFTW API: https://10.159.64.205:3148/api/v2
+2025-09-11 00:11:06,972 - ui.main_window - INFO - 已加载 6 个模板
+2025-09-11 00:11:11,632 - camera.camera_manager - ERROR - 无法从摄像头读取图像
+2025-09-11 00:11:11,655 - camera.camera_manager - INFO - 摄像头资源已释放
+2025-09-11 00:11:11,656 - ui.main_window - INFO - 摄像头初始化失败: 无法从摄像头读取图像
+2025-09-11 00:11:15,587 - ui.main_window - INFO - 摄像头已停止
+2025-09-11 00:19:37,221 - utils.config_manager - INFO - Configuration file loaded: config.json
+2025-09-11 00:19:37,221 - llm.llm_manager - INFO - Initialized OpenAI LLM (model: gpt-4-vision-preview)
+2025-09-11 00:19:37,836 - elabftw.elab_manager - INFO - Successfully connected to elabFTW API: https://10.159.64.205:3148/api/v2
+2025-09-11 00:19:38,418 - ui.main_window - INFO - Loaded 6 templates
+2025-09-11 00:19:42,650 - camera.camera_manager - ERROR - 无法从摄像头读取图像
+2025-09-11 00:19:42,678 - camera.camera_manager - INFO - 摄像头资源已释放
+2025-09-11 00:19:42,679 - ui.main_window - INFO - Camera initialization failed: 无法从摄像头读取图像
+2025-09-11 00:19:48,704 - utils.config_manager - INFO - Configuration file loaded: config.json
+2025-09-11 00:19:56,557 - utils.config_manager - INFO - Configuration file loaded: config.json
+2025-09-11 00:19:56,557 - llm.llm_manager - INFO - Initialized OpenAI LLM (model: gpt-4-vision-preview)
+2025-09-11 00:19:57,159 - elabftw.elab_manager - INFO - Successfully connected to elabFTW API: https://10.159.64.205:3148/api/v2
+2025-09-11 00:19:57,670 - ui.main_window - INFO - Loaded 6 templates
+2025-09-11 00:20:01,913 - camera.camera_manager - ERROR - 无法从摄像头读取图像
+2025-09-11 00:20:01,937 - camera.camera_manager - INFO - 摄像头资源已释放
+2025-09-11 00:20:01,937 - ui.main_window - INFO - Camera initialization failed: 无法从摄像头读取图像
+2025-09-11 00:20:21,669 - ui.main_window - INFO - 摄像头已停止
+2025-09-11 00:23:19,196 - utils.config_manager - INFO - Configuration file loaded: config.json
+2025-09-11 00:23:19,196 - llm.llm_manager - INFO - Initialized OpenAI LLM (model: gpt-4-vision-preview)
+2025-09-11 00:23:19,810 - elabftw.elab_manager - INFO - Successfully connected to elabFTW API: https://10.159.64.205:3148/api/v2
+2025-09-11 00:23:20,375 - ui.main_window - INFO - Loaded 6 templates
+2025-09-11 00:23:24,614 - camera.camera_manager - ERROR - 无法从摄像头读取图像
+2025-09-11 00:23:24,626 - camera.camera_manager - INFO - 摄像头资源已释放
+2025-09-11 00:23:24,626 - ui.main_window - INFO - Camera initialization failed: 无法从摄像头读取图像
+2025-09-11 00:23:33,793 - ui.main_window - INFO - 摄像头已停止
+2025-09-11 00:29:51,333 - utils.config_manager - INFO - Configuration file loaded: config.json
+2025-09-11 00:29:51,333 - llm.llm_manager - INFO - Initialized OpenAI LLM (model: gpt-4-vision-preview)
+2025-09-11 00:29:51,800 - elabftw.elab_manager - INFO - Successfully connected to elabFTW API: https://10.159.64.205:3148/api/v2
+2025-09-11 00:29:52,363 - ui.main_window - INFO - Loaded 6 templates
+2025-09-11 00:29:56,581 - camera.camera_manager - ERROR - 无法从摄像头读取图像
+2025-09-11 00:29:56,609 - camera.camera_manager - INFO - 摄像头资源已释放
+2025-09-11 00:29:56,609 - ui.main_window - INFO - Camera initialization failed: 无法从摄像头读取图像
+2025-09-11 00:30:13,266 - elabftw.elab_manager - ERROR - Failed to get user information: 'UsersApi' object has no attribute 'read_user_me'
+2025-09-11 00:30:13,870 - elabftw.elab_manager - ERROR - Failed to get user information: 'UsersApi' object has no attribute 'read_user_me'
+2025-09-11 00:30:21,094 - utils.config_manager - INFO - Configuration file loaded: config.json
+2025-09-11 00:32:23,676 - utils.config_manager - INFO - Configuration file saved: config.json
+2025-09-11 00:32:23,677 - llm.llm_manager - INFO - Initialized OpenAI LLM (model: gpt-3.5-turbo)
+2025-09-11 00:32:24,260 - elabftw.elab_manager - INFO - Successfully connected to elabFTW API: https://10.159.64.205:3148/api/v2
+2025-09-11 00:32:24,703 - ui.main_window - INFO - Loaded 6 templates
+2025-09-11 00:32:24,703 - ui.main_window - INFO - 摄像头已停止
+2025-09-11 00:32:27,775 - camera.camera_manager - ERROR - 无法从摄像头读取图像
+2025-09-11 00:32:27,788 - camera.camera_manager - INFO - 摄像头资源已释放
+2025-09-11 00:32:27,788 - ui.main_window - INFO - Camera initialization failed: 无法从摄像头读取图像
+2025-09-11 00:32:27,788 - ui.main_window - INFO - Settings updated
+2025-09-11 00:32:34,712 - ui.main_window - INFO - 摄像头已停止
+2025-09-11 00:33:16,340 - utils.config_manager - INFO - Configuration file loaded: config.json
+2025-09-11 00:33:16,341 - llm.llm_manager - INFO - Initialized OpenAI LLM (model: gpt-3.5-turbo)
+2025-09-11 00:33:16,888 - elabftw.elab_manager - INFO - Successfully connected to elabFTW API: https://10.159.64.205:3148/api/v2
+2025-09-11 00:33:17,444 - ui.main_window - INFO - Loaded 6 templates
+2025-09-11 00:33:21,691 - camera.camera_manager - ERROR - 无法从摄像头读取图像
+2025-09-11 00:33:21,710 - camera.camera_manager - INFO - 摄像头资源已释放
+2025-09-11 00:33:21,711 - ui.main_window - INFO - Camera initialization failed: 无法从摄像头读取图像
+2025-09-11 00:33:25,146 - elabftw.elab_manager - ERROR - Failed to get user information: 'UsersApi' object has no attribute 'read_user_me'
+2025-09-11 00:33:25,641 - elabftw.elab_manager - ERROR - Failed to get user information: 'UsersApi' object has no attribute 'read_user_me'
+2025-09-11 00:33:31,419 - elabftw.elab_manager - ERROR - Failed to get user information: 'UsersApi' object has no attribute 'read_user_me'
+2025-09-11 00:33:33,490 - elabftw.elab_manager - ERROR - Failed to get user information: 'UsersApi' object has no attribute 'read_user_me'
+2025-09-11 00:33:37,903 - utils.config_manager - INFO - Configuration file loaded: config.json
+2025-09-11 00:33:46,343 - elabftw.elab_manager - INFO - Successfully connected to elabFTW API: https://10.159.64.205:3148/api/v2
+2025-09-11 00:34:00,077 - ui.main_window - INFO - 摄像头已停止
+2025-09-11 00:35:16,543 - utils.config_manager - INFO - Configuration file loaded: config.json
+2025-09-11 00:35:16,543 - llm.llm_manager - INFO - Initialized OpenAI LLM (model: gpt-3.5-turbo)
+2025-09-11 00:35:17,115 - elabftw.elab_manager - INFO - Successfully connected to elabFTW API: https://10.159.64.205:3148/api/v2
+2025-09-11 00:35:17,764 - ui.main_window - INFO - Loaded 6 templates
+2025-09-11 00:35:21,961 - camera.camera_manager - ERROR - 无法从摄像头读取图像
+2025-09-11 00:35:21,975 - camera.camera_manager - INFO - 摄像头资源已释放
+2025-09-11 00:35:21,975 - ui.main_window - INFO - Camera initialization failed: 无法从摄像头读取图像
+2025-09-11 00:35:27,053 - elabftw.elab_manager - ERROR - Failed to get user information: 'InlineResponse200' object has no attribute 'get'
+2025-09-11 00:35:27,794 - elabftw.elab_manager - ERROR - Failed to get user information: 'InlineResponse200' object has no attribute 'get'
+2025-09-11 00:35:28,797 - elabftw.elab_manager - ERROR - Failed to get user information: 'InlineResponse200' object has no attribute 'get'
+2025-09-11 00:35:32,907 - elabftw.elab_manager - ERROR - Failed to get user information: 'InlineResponse200' object has no attribute 'get'
+2025-09-11 00:35:35,372 - elabftw.elab_manager - ERROR - Failed to get user information: 'InlineResponse200' object has no attribute 'get'
+2025-09-11 00:35:36,850 - utils.config_manager - INFO - Configuration file loaded: config.json
+2025-09-11 00:35:40,865 - ui.main_window - INFO - 摄像头已停止
+2025-09-11 00:36:03,474 - utils.config_manager - INFO - Configuration file loaded: config.json
+2025-09-11 00:36:03,475 - llm.llm_manager - INFO - Initialized OpenAI LLM (model: gpt-3.5-turbo)
+2025-09-11 00:36:03,972 - elabftw.elab_manager - INFO - Successfully connected to elabFTW API: https://10.159.64.205:3148/api/v2
+2025-09-11 00:36:04,527 - ui.main_window - INFO - Loaded 6 templates
+2025-09-11 00:36:08,741 - camera.camera_manager - ERROR - 无法从摄像头读取图像
+2025-09-11 00:36:08,753 - camera.camera_manager - INFO - 摄像头资源已释放
+2025-09-11 00:36:08,753 - ui.main_window - INFO - Camera initialization failed: 无法从摄像头读取图像
+2025-09-11 00:36:29,165 - ui.main_window - INFO - 摄像头已停止
+2025-09-11 00:41:33,185 - utils.config_manager - INFO - Configuration file loaded: config.json
+2025-09-11 00:41:33,185 - llm.llm_manager - INFO - Initialized OpenAI LLM (model: gpt-3.5-turbo)
+2025-09-11 00:41:33,738 - elabftw.elab_manager - INFO - Successfully connected to elabFTW API: https://10.159.64.205:3148/api/v2
+2025-09-11 00:41:34,283 - ui.main_window - INFO - Loaded 6 templates
+2025-09-11 00:41:38,548 - camera.camera_manager - ERROR - 无法从摄像头读取图像
+2025-09-11 00:41:38,570 - camera.camera_manager - INFO - 摄像头资源已释放
+2025-09-11 00:41:38,570 - ui.main_window - INFO - Camera initialization failed: 无法从摄像头读取图像
+2025-09-11 00:42:46,769 - ui.main_window - INFO - Loaded image from /Users/lianbin/Desktop/Screenshot 2025-09-11 at 12.42.19 AM.jpg
+2025-09-11 00:42:49,330 - ui.main_window - INFO - Preparing analysis...
+2025-09-11 00:42:50,070 - ui.main_window - INFO - Preparing image analysis...
+2025-09-11 00:42:50,072 - ui.main_window - INFO - Analyzing image with LLM...
+2025-09-11 00:42:51,143 - llm.llm_manager - ERROR - OpenAI分析图像失败: 400 Client Error: Bad Request for url: https://api.openai.com/v1/chat/completions
+2025-09-11 00:42:51,145 - ui.main_window - INFO - LLM analysis failed: 400 Client Error: Bad Request for url: https://api.openai.com/v1/chat/completions
+2025-09-11 00:43:08,966 - ui.main_window - INFO - Camera stopped
+2025-09-11 00:45:39,907 - utils.config_manager - INFO - Configuration file loaded: config.json
+2025-09-11 00:45:39,908 - llm.llm_manager - INFO - Initialized OpenAI LLM (model: gpt-3.5-turbo)
+2025-09-11 00:45:40,459 - elabftw.elab_manager - INFO - Successfully connected to elabFTW API: https://10.159.64.205:3148/api/v2
+2025-09-11 00:45:41,197 - ui.main_window - INFO - Loaded 6 templates
+2025-09-11 00:45:45,458 - camera.camera_manager - ERROR - 无法从摄像头读取图像
+2025-09-11 00:45:45,473 - camera.camera_manager - INFO - 摄像头资源已释放
+2025-09-11 00:45:45,474 - ui.main_window - INFO - Camera initialization failed: 无法从摄像头读取图像
+2025-09-11 00:45:53,595 - utils.config_manager - INFO - Configuration file loaded: config.json
+2025-09-11 00:46:04,073 - utils.config_manager - INFO - Configuration file saved: config.json
+2025-09-11 00:46:04,073 - llm.llm_manager - INFO - Initialized OpenAI LLM (model: gpt-4-turbo)
+2025-09-11 00:46:04,545 - elabftw.elab_manager - INFO - Successfully connected to elabFTW API: https://10.159.64.205:3148/api/v2
+2025-09-11 00:46:04,901 - ui.main_window - INFO - Loaded 6 templates
+2025-09-11 00:46:04,901 - ui.main_window - INFO - Camera stopped
+2025-09-11 00:46:07,953 - camera.camera_manager - ERROR - 无法从摄像头读取图像
+2025-09-11 00:46:07,966 - camera.camera_manager - INFO - 摄像头资源已释放
+2025-09-11 00:46:07,966 - ui.main_window - INFO - Camera initialization failed: 无法从摄像头读取图像
+2025-09-11 00:46:07,966 - ui.main_window - INFO - Settings updated
+2025-09-11 00:46:30,219 - ui.main_window - INFO - Camera stopped
+2025-09-11 00:46:47,778 - utils.config_manager - INFO - Configuration file loaded: config.json
+2025-09-11 00:46:47,779 - llm.llm_manager - INFO - Initialized OpenAI LLM (model: gpt-4-vision-preview)
+2025-09-11 00:46:48,309 - elabftw.elab_manager - INFO - Successfully connected to elabFTW API: https://10.159.64.205:3148/api/v2
+2025-09-11 00:46:48,851 - ui.main_window - INFO - Loaded 6 templates
+2025-09-11 00:46:53,076 - camera.camera_manager - ERROR - 无法从摄像头读取图像
+2025-09-11 00:46:53,094 - camera.camera_manager - INFO - 摄像头资源已释放
+2025-09-11 00:46:53,095 - ui.main_window - INFO - Camera initialization failed: 无法从摄像头读取图像
+2025-09-11 00:47:44,304 - ui.main_window - INFO - Loaded image from /Users/lianbin/Desktop/Screenshot 2025-09-11 at 12.42.19 AM.jpg
+2025-09-11 00:47:46,100 - ui.main_window - INFO - Preparing analysis...
+2025-09-11 00:47:46,691 - ui.main_window - INFO - Preparing image analysis...
+2025-09-11 00:47:46,694 - ui.main_window - INFO - Analyzing image with LLM...
+2025-09-11 00:47:47,706 - llm.llm_manager - ERROR - OpenAI image analysis failed: 404 Client Error: Not Found for url: https://api.openai.com/v1/chat/completions
+2025-09-11 00:47:47,708 - ui.main_window - INFO - LLM analysis failed: 404 Client Error: Not Found for url: https://api.openai.com/v1/chat/completions
+2025-09-11 00:48:17,516 - ui.main_window - INFO - Camera stopped
+2025-09-11 00:48:42,507 - utils.config_manager - INFO - Configuration file loaded: config.json
+2025-09-11 00:48:42,507 - llm.llm_manager - INFO - Initialized OpenAI LLM (model: gpt-4-turbo)
+2025-09-11 00:48:43,099 - elabftw.elab_manager - INFO - Successfully connected to elabFTW API: https://10.159.64.205:3148/api/v2
+2025-09-11 00:48:43,631 - ui.main_window - INFO - Loaded 6 templates
+2025-09-11 00:48:47,832 - camera.camera_manager - ERROR - 无法从摄像头读取图像
+2025-09-11 00:48:47,844 - camera.camera_manager - INFO - 摄像头资源已释放
+2025-09-11 00:48:47,844 - ui.main_window - INFO - Camera initialization failed: 无法从摄像头读取图像
+2025-09-11 00:48:53,634 - ui.main_window - INFO - Loaded image from /Users/lianbin/workdir/_codes_/New_Project/ai_assisted_group_managesystem/lab_asset_manager/images/Screenshot 2025-09-11 at 12.42.19 AM.jpg
+2025-09-11 00:48:55,175 - ui.main_window - INFO - Preparing analysis...
+2025-09-11 00:48:55,672 - ui.main_window - INFO - Preparing image analysis...
+2025-09-11 00:48:55,673 - ui.main_window - INFO - Analyzing image with LLM...
+2025-09-11 00:49:03,417 - ui.main_window - INFO - Analysis complete, processing results...
+2025-09-11 00:49:03,421 - ui.main_window - INFO - Analysis complete
+2025-09-11 00:49:03,449 - ui.main_window - INFO - Analysis complete
+2025-09-11 00:49:18,740 - ui.main_window - INFO - Saving to elabFTW...
+2025-09-11 00:49:19,275 - elabftw.elab_manager - INFO - Item created (ID: 1236)
+2025-09-11 00:49:20,195 - elabftw.elab_manager - INFO - 已上传图像 (ID: 11)
+2025-09-11 00:49:20,196 - ui.main_window - INFO - Saved to elabFTW (ID: 1236)
+2025-09-11 00:50:21,483 - ui.main_window - INFO - Camera stopped
+2025-09-11 00:58:11,404 - utils.config_manager - INFO - Configuration file loaded: config.json
+2025-09-11 00:58:11,405 - llm.llm_manager - INFO - Initialized OpenAI LLM (model: gpt-4-turbo)
+2025-09-11 00:58:11,926 - elabftw.elab_manager - INFO - Successfully connected to elabFTW API: https://10.159.64.205:3148/api/v2
+2025-09-11 00:58:12,572 - ui.main_window - INFO - Loaded 6 templates
+2025-09-11 00:58:16,808 - camera.camera_manager - ERROR - 无法从摄像头读取图像
+2025-09-11 00:58:16,823 - camera.camera_manager - INFO - 摄像头资源已释放
+2025-09-11 00:58:16,824 - ui.main_window - INFO - Camera initialization failed: 无法从摄像头读取图像
+2025-09-11 00:58:25,872 - ui.main_window - INFO - Loaded image from /Users/lianbin/workdir/_codes_/New_Project/ai_assisted_group_managesystem/lab_asset_manager/images/Screenshot 2025-09-11 at 12.42.19 AM.jpg
+2025-09-11 00:58:27,311 - ui.main_window - INFO - Preparing analysis...
+2025-09-11 00:58:27,834 - ui.main_window - INFO - Preparing image analysis...
+2025-09-11 00:58:27,835 - ui.main_window - INFO - Analyzing image with LLM...
+2025-09-11 00:58:33,840 - ui.main_window - INFO - Analysis complete, processing results...
+2025-09-11 00:58:33,843 - ui.main_window - INFO - Analysis complete, you can edit the results before saving
+2025-09-11 00:58:33,854 - ui.main_window - INFO - Analysis complete
+2025-09-11 00:58:43,931 - ui.main_window - INFO - Saving to elabFTW...
+2025-09-11 00:58:44,546 - elabftw.elab_manager - INFO - Item created (ID: 1237)
+2025-09-11 00:58:45,425 - elabftw.elab_manager - INFO - Image uploaded (ID: 12)
+2025-09-11 00:58:45,425 - ui.main_window - INFO - Saved to elabFTW (ID: 1237)
+2025-09-11 00:59:24,081 - ui.main_window - INFO - Camera stopped
+2025-09-11 01:03:12,678 - utils.config_manager - INFO - Configuration file loaded: config.json
+2025-09-11 01:03:12,678 - llm.llm_manager - INFO - Initialized OpenAI LLM (model: gpt-4-turbo)
+2025-09-11 01:03:13,290 - elabftw.elab_manager - INFO - Successfully connected to elabFTW API: https://10.159.64.205:3148/api/v2
+2025-09-11 01:03:13,826 - ui.main_window - INFO - Loaded 6 templates
+2025-09-11 01:03:18,032 - camera.camera_manager - ERROR - 无法从摄像头读取图像
+2025-09-11 01:03:18,045 - camera.camera_manager - INFO - 摄像头资源已释放
+2025-09-11 01:03:18,045 - ui.main_window - INFO - Camera initialization failed: 无法从摄像头读取图像
+2025-09-11 01:03:25,707 - ui.main_window - INFO - Loaded image from /Users/lianbin/workdir/_codes_/New_Project/ai_assisted_group_managesystem/lab_asset_manager/images/Screenshot 2025-09-11 at 12.42.19 AM.jpg
+2025-09-11 01:03:26,613 - ui.main_window - INFO - Preparing analysis...
+2025-09-11 01:03:27,131 - ui.main_window - INFO - Preparing image analysis...
+2025-09-11 01:03:27,134 - ui.main_window - INFO - Analyzing image with LLM...
+2025-09-11 01:03:34,632 - ui.main_window - INFO - Analysis complete, processing results...
+2025-09-11 01:03:34,636 - ui.main_window - INFO - Analysis complete, you can edit the results before saving
+2025-09-11 01:03:34,647 - ui.main_window - INFO - Analysis complete
+2025-09-11 01:03:45,352 - ui.main_window - INFO - Saving to elabFTW...
+2025-09-11 01:03:45,899 - elabftw.elab_manager - INFO - Item created (ID: 1238)
+2025-09-11 01:03:46,688 - elabftw.elab_manager - INFO - Image uploaded (ID: 13)
+2025-09-11 01:03:46,688 - ui.main_window - INFO - Saved to elabFTW (ID: 1238)
+2025-09-11 01:04:49,149 - ui.main_window - INFO - Generating QR code...
+2025-09-11 01:04:49,779 - elabftw.elab_manager - ERROR - Failed to get item information: 'Entity' object has no attribute 'date'
+2025-09-11 01:04:49,779 - ui.main_window - INFO - Failed to get asset information
+2025-09-11 01:05:00,724 - ui.main_window - INFO - Camera stopped
+2025-09-11 01:07:55,354 - utils.config_manager - INFO - Configuration file loaded: config.json
+2025-09-11 01:07:55,355 - llm.llm_manager - INFO - Initialized OpenAI LLM (model: gpt-4-turbo)
+2025-09-11 01:07:55,932 - elabftw.elab_manager - INFO - Successfully connected to elabFTW API: https://10.159.64.205:3148/api/v2
+2025-09-11 01:07:56,463 - ui.main_window - INFO - Loaded 6 templates
+2025-09-11 01:08:00,701 - camera.camera_manager - ERROR - 无法从摄像头读取图像
+2025-09-11 01:08:00,714 - camera.camera_manager - INFO - 摄像头资源已释放
+2025-09-11 01:08:00,714 - ui.main_window - INFO - Camera initialization failed: 无法从摄像头读取图像
+2025-09-11 01:08:05,827 - ui.main_window - INFO - Loaded image from /Users/lianbin/workdir/_codes_/New_Project/ai_assisted_group_managesystem/lab_asset_manager/images/Screenshot 2025-09-11 at 12.42.19 AM.jpg
+2025-09-11 01:08:07,651 - ui.main_window - INFO - Preparing analysis...
+2025-09-11 01:08:08,160 - ui.main_window - INFO - Preparing image analysis...
+2025-09-11 01:08:08,161 - ui.main_window - INFO - Analyzing image with LLM...
+2025-09-11 01:08:15,645 - ui.main_window - INFO - Analysis complete, processing results...
+2025-09-11 01:08:15,647 - ui.main_window - INFO - Analysis complete, you can edit the results before saving
+2025-09-11 01:08:15,654 - ui.main_window - INFO - Analysis complete
+2025-09-11 01:08:21,560 - ui.main_window - INFO - Saving to elabFTW...
+2025-09-11 01:08:22,156 - elabftw.elab_manager - INFO - Item created (ID: 1239)
+2025-09-11 01:08:22,978 - elabftw.elab_manager - INFO - Image uploaded (ID: 14)
+2025-09-11 01:08:22,979 - ui.main_window - INFO - Saved to elabFTW (ID: 1239)
+2025-09-11 01:21:17,740 - utils.config_manager - INFO - Configuration file loaded: config.json
+2025-09-11 01:21:17,740 - llm.llm_manager - INFO - Initialized OpenAI LLM (model: gpt-4-turbo)
+2025-09-11 01:21:18,373 - elabftw.elab_manager - INFO - Successfully connected to elabFTW API: https://10.159.64.205:3148/api/v2
+2025-09-11 01:21:19,334 - ui.main_window - INFO - Loaded 6 templates
+2025-09-11 01:21:24,043 - camera.camera_manager - ERROR - 无法从摄像头读取图像
+2025-09-11 01:21:24,073 - camera.camera_manager - INFO - 摄像头资源已释放
+2025-09-11 01:21:24,073 - ui.main_window - INFO - Camera initialization failed: 无法从摄像头读取图像
+2025-09-11 01:21:28,235 - ui.main_window - INFO - Camera stopped
+2025-09-11 01:21:37,150 - ui.main_window - INFO - Loaded image from /Users/lianbin/workdir/_codes_/New_Project/ai_assisted_group_managesystem/lab_asset_manager/images/Screenshot 2025-09-11 at 12.42.19 AM.jpg
+2025-09-11 01:21:38,674 - ui.main_window - INFO - Preparing analysis...
+2025-09-11 01:21:39,248 - ui.main_window - INFO - Preparing image analysis...
+2025-09-11 01:21:39,251 - ui.main_window - INFO - Analyzing image with LLM...
+2025-09-11 01:21:47,699 - ui.main_window - INFO - Analysis complete, processing results...
+2025-09-11 01:21:47,702 - ui.main_window - INFO - Analysis complete, you can edit the results before saving
+2025-09-11 01:21:47,710 - ui.main_window - INFO - Analysis complete
+2025-09-11 01:21:52,369 - ui.main_window - INFO - Saving to elabFTW...
+2025-09-11 01:21:52,871 - elabftw.elab_manager - INFO - Item created (ID: 1240)
+2025-09-11 01:21:53,743 - elabftw.elab_manager - INFO - Image uploaded (ID: 15)
+2025-09-11 01:21:53,743 - ui.main_window - INFO - Saved to elabFTW (ID: 1240)
+2025-09-11 01:21:55,700 - ui.main_window - INFO - Generating QR code...
+2025-09-11 01:21:56,145 - qrcode.qrcode_generator - ERROR - 生成二维码失败: module 'qrcode' has no attribute 'QRCode'
+2025-09-11 01:21:56,145 - ui.main_window - INFO - Failed to generate QR code: 生成二维码图像失败
+2025-09-11 01:31:16,403 - utils.config_manager - INFO - Configuration file loaded: config.json
+2025-09-11 01:31:16,403 - llm.llm_manager - INFO - Initialized OpenAI LLM (model: gpt-4-turbo)
+2025-09-11 01:31:16,942 - elabftw.elab_manager - INFO - Successfully connected to elabFTW API: https://10.159.64.205:3148/api/v2
+2025-09-11 01:31:17,673 - ui.main_window - INFO - Loaded 6 templates
+2025-09-11 01:31:22,009 - camera.camera_manager - ERROR - 无法从摄像头读取图像
+2025-09-11 01:31:22,026 - camera.camera_manager - INFO - 摄像头资源已释放
+2025-09-11 01:31:22,027 - ui.main_window - INFO - Camera initialization failed: 无法从摄像头读取图像
+2025-09-11 01:31:28,109 - ui.main_window - INFO - Loaded image from /Users/lianbin/workdir/_codes_/New_Project/ai_assisted_group_managesystem/lab_asset_manager/images/Screenshot 2025-09-11 at 12.42.19 AM.jpg
+2025-09-11 01:31:29,151 - ui.main_window - INFO - Preparing analysis...
+2025-09-11 01:31:29,672 - ui.main_window - INFO - Preparing image analysis...
+2025-09-11 01:31:29,674 - ui.main_window - INFO - Analyzing image with LLM...
+2025-09-11 01:31:38,780 - ui.main_window - INFO - Analysis complete, processing results...
+2025-09-11 01:31:38,786 - ui.main_window - INFO - Analysis complete, you can edit the results before saving
+2025-09-11 01:31:38,803 - ui.main_window - INFO - Analysis complete
+2025-09-11 01:31:41,045 - ui.main_window - INFO - Saving to elabFTW...
+2025-09-11 01:31:41,564 - elabftw.elab_manager - INFO - Item created (ID: 1241)
+2025-09-11 01:31:42,450 - elabftw.elab_manager - INFO - Image uploaded (ID: 16)
+2025-09-11 01:31:42,451 - ui.main_window - INFO - Saved to elabFTW (ID: 1241)
+2025-09-11 01:31:45,429 - ui.main_window - INFO - Generating QR code...
+2025-09-11 01:31:45,823 - qrcode.qrcode_generator - ERROR - Failed to generate QR code: module 'qrcode' has no attribute 'QRCode'
+2025-09-11 01:31:45,824 - ui.main_window - INFO - Failed to generate QR code: Failed to generate QR code image
+2025-09-11 01:36:45,798 - ui.main_window - INFO - Camera stopped
+2025-09-11 01:36:48,245 - utils.config_manager - INFO - Configuration file loaded: config.json
+2025-09-11 01:36:48,245 - llm.llm_manager - INFO - Initialized OpenAI LLM (model: gpt-4-turbo)
+2025-09-11 01:36:48,819 - elabftw.elab_manager - INFO - Successfully connected to elabFTW API: https://10.159.64.205:3148/api/v2
+2025-09-11 01:36:49,387 - ui.main_window - INFO - Loaded 6 templates
+2025-09-11 01:36:53,606 - camera.camera_manager - ERROR - 无法从摄像头读取图像
+2025-09-11 01:36:53,621 - camera.camera_manager - INFO - 摄像头资源已释放
+2025-09-11 01:36:53,621 - ui.main_window - INFO - Camera initialization failed: 无法从摄像头读取图像
+2025-09-11 01:37:05,116 - ui.main_window - INFO - Loaded image from /Users/lianbin/workdir/_codes_/New_Project/ai_assisted_group_managesystem/lab_asset_manager/images/Screenshot 2025-09-11 at 12.42.19 AM.jpg
+2025-09-11 01:37:06,165 - ui.main_window - INFO - Preparing analysis...
+2025-09-11 01:37:06,707 - ui.main_window - INFO - Preparing image analysis...
+2025-09-11 01:37:06,710 - ui.main_window - INFO - Analyzing image with LLM...
+2025-09-11 01:37:14,650 - ui.main_window - INFO - Analysis complete, processing results...
+2025-09-11 01:37:14,655 - ui.main_window - INFO - Analysis complete, you can edit the results before saving
+2025-09-11 01:37:14,671 - ui.main_window - INFO - Analysis complete
+2025-09-11 01:37:20,536 - ui.main_window - INFO - Saving to elabFTW...
+2025-09-11 01:37:21,107 - elabftw.elab_manager - INFO - Item created (ID: 1242)
+2025-09-11 01:37:21,926 - elabftw.elab_manager - INFO - Image uploaded (ID: 17)
+2025-09-11 01:37:21,926 - ui.main_window - INFO - Saved to elabFTW (ID: 1242
+2025-09-11 01:37:21,926 - ui.main_window - INFO - Generating QR code...
+2025-09-11 01:37:22,297 - qrcode.qrcode_generator - ERROR - Failed to generate QR code: module 'qrcode' has no attribute 'QRCode'
+2025-09-11 01:37:22,297 - ui.main_window - INFO - Failed to generate QR code: Failed to generate QR code image
+2025-09-11 01:37:39,597 - ui.main_window - INFO - Camera stopped
+2025-09-11 01:38:29,970 - utils.config_manager - INFO - Configuration file loaded: config.json
+2025-09-11 01:38:29,971 - llm.llm_manager - INFO - Initialized OpenAI LLM (model: gpt-4-turbo)
+2025-09-11 01:38:30,506 - elabftw.elab_manager - INFO - Successfully connected to elabFTW API: https://10.159.64.205:3148/api/v2
+2025-09-11 01:38:31,038 - ui.main_window - INFO - Loaded 6 templates
+2025-09-11 01:38:35,293 - camera.camera_manager - ERROR - 无法从摄像头读取图像
+2025-09-11 01:38:35,322 - camera.camera_manager - INFO - 摄像头资源已释放
+2025-09-11 01:38:35,322 - ui.main_window - INFO - Camera initialization failed: 无法从摄像头读取图像
+2025-09-11 01:38:44,272 - ui.main_window - INFO - Loaded image from /Users/lianbin/workdir/_codes_/New_Project/ai_assisted_group_managesystem/lab_asset_manager/images/Screenshot 2025-09-11 at 12.42.19 AM.jpg
+2025-09-11 01:38:45,049 - ui.main_window - INFO - Preparing analysis...
+2025-09-11 01:38:45,588 - ui.main_window - INFO - Preparing image analysis...
+2025-09-11 01:38:45,590 - ui.main_window - INFO - Analyzing image with LLM...
+2025-09-11 01:38:53,053 - ui.main_window - INFO - Analysis complete, processing results...
+2025-09-11 01:38:53,057 - ui.main_window - INFO - Analysis complete, you can edit the results before saving
+2025-09-11 01:38:53,072 - ui.main_window - INFO - Analysis complete
+2025-09-11 01:38:54,370 - ui.main_window - INFO - Saving to elabFTW...
+2025-09-11 01:38:54,787 - elabftw.elab_manager - INFO - Item created (ID: 1243)
+2025-09-11 01:38:55,621 - elabftw.elab_manager - INFO - Image uploaded (ID: 18)
+2025-09-11 01:38:55,622 - ui.main_window - INFO - Saved to elabFTW (ID: 1243
+2025-09-11 01:38:55,622 - ui.main_window - INFO - Generating QR code...
+2025-09-11 01:38:56,010 - qrcode.qrcode_generator - ERROR - Failed to generate QR code: module 'qrcode' has no attribute 'QRCode'
+2025-09-11 01:38:56,010 - ui.main_window - INFO - Failed to generate QR code: Failed to generate QR code image
+2025-09-11 01:39:06,390 - ui.main_window - INFO - Camera stopped
+2025-09-11 01:41:21,702 - utils.config_manager - INFO - Configuration file loaded: config.json
+2025-09-11 01:41:21,702 - llm.llm_manager - INFO - Initialized OpenAI LLM (model: gpt-4-turbo)
+2025-09-11 01:41:22,234 - elabftw.elab_manager - INFO - Successfully connected to elabFTW API: https://10.159.64.205:3148/api/v2
+2025-09-11 01:41:22,765 - ui.main_window - INFO - Loaded 6 templates
+2025-09-11 01:41:26,997 - camera.camera_manager - ERROR - 无法从摄像头读取图像
+2025-09-11 01:41:27,018 - camera.camera_manager - INFO - 摄像头资源已释放
+2025-09-11 01:41:27,018 - ui.main_window - INFO - Camera initialization failed: 无法从摄像头读取图像
+2025-09-11 01:41:34,194 - ui.main_window - INFO - Loaded image from /Users/lianbin/workdir/_codes_/New_Project/ai_assisted_group_managesystem/lab_asset_manager/images/Screenshot 2025-09-11 at 12.42.19 AM.jpg
+2025-09-11 01:41:35,483 - ui.main_window - INFO - Preparing analysis...
+2025-09-11 01:41:35,983 - ui.main_window - INFO - Preparing image analysis...
+2025-09-11 01:41:35,984 - ui.main_window - INFO - Analyzing image with LLM...
+2025-09-11 01:41:44,058 - ui.main_window - INFO - Analysis complete, processing results...
+2025-09-11 01:41:44,062 - ui.main_window - INFO - Analysis complete, you can edit the results before saving
+2025-09-11 01:41:44,072 - ui.main_window - INFO - Analysis complete
+2025-09-11 01:41:45,175 - ui.main_window - INFO - Saving to elabFTW...
+2025-09-11 01:41:45,624 - elabftw.elab_manager - INFO - Item created (ID: 1244)
+2025-09-11 01:41:46,500 - elabftw.elab_manager - INFO - Image uploaded (ID: 19)
+2025-09-11 01:41:46,501 - ui.main_window - INFO - Saved to elabFTW (ID: 1244
+2025-09-11 01:41:46,501 - ui.main_window - INFO - Generating QR code...
+2025-09-11 01:41:46,872 - qrcode_module.qrcode_generator - ERROR - Failed to generate QR code: module 'qrcode' has no attribute 'QRCode'
+2025-09-11 01:41:46,873 - ui.main_window - INFO - Failed to generate QR code: Failed to generate QR code image
+2025-09-11 01:41:57,017 - ui.main_window - INFO - Camera stopped
+2025-09-11 01:42:20,097 - utils.config_manager - INFO - Configuration file loaded: config.json
+2025-09-11 01:42:20,098 - llm.llm_manager - INFO - Initialized OpenAI LLM (model: gpt-4-turbo)
+2025-09-11 01:42:20,712 - elabftw.elab_manager - INFO - Successfully connected to elabFTW API: https://10.159.64.205:3148/api/v2
+2025-09-11 01:42:21,318 - ui.main_window - INFO - Loaded 6 templates
+2025-09-11 01:42:25,502 - camera.camera_manager - ERROR - 无法从摄像头读取图像
+2025-09-11 01:42:25,516 - camera.camera_manager - INFO - 摄像头资源已释放
+2025-09-11 01:42:25,516 - ui.main_window - INFO - Camera initialization failed: 无法从摄像头读取图像
+2025-09-11 01:42:32,973 - ui.main_window - INFO - Loaded image from /Users/lianbin/workdir/_codes_/New_Project/ai_assisted_group_managesystem/lab_asset_manager/images/Screenshot 2025-09-11 at 12.42.19 AM.jpg
+2025-09-11 01:42:34,048 - ui.main_window - INFO - Preparing analysis...
+2025-09-11 01:42:34,741 - ui.main_window - INFO - Preparing image analysis...
+2025-09-11 01:42:34,742 - ui.main_window - INFO - Analyzing image with LLM...
+2025-09-11 01:42:42,579 - ui.main_window - INFO - Analysis complete, processing results...
+2025-09-11 01:42:42,581 - ui.main_window - INFO - Analysis complete, you can edit the results before saving
+2025-09-11 01:42:42,590 - ui.main_window - INFO - Analysis complete
+2025-09-11 01:42:43,692 - ui.main_window - INFO - Saving to elabFTW...
+2025-09-11 01:42:44,254 - elabftw.elab_manager - INFO - Item created (ID: 1245)
+2025-09-11 01:42:45,080 - elabftw.elab_manager - INFO - Image uploaded (ID: 20)
+2025-09-11 01:42:45,081 - ui.main_window - INFO - Saved to elabFTW (ID: 1245
+2025-09-11 01:42:45,081 - ui.main_window - INFO - Generating QR code...
+2025-09-11 01:42:45,468 - qrcode_module.qrcode_generator - ERROR - Failed to generate QR code: module 'qrcode' has no attribute 'QRCode'
+2025-09-11 01:42:45,468 - ui.main_window - INFO - Failed to generate QR code: Failed to generate QR code image
+2025-09-11 01:42:49,479 - ui.main_window - INFO - Camera stopped
+2025-09-11 01:44:58,791 - utils.config_manager - INFO - Configuration file loaded: config.json
+2025-09-11 01:44:58,791 - llm.llm_manager - INFO - Initialized OpenAI LLM (model: gpt-4-turbo)
+2025-09-11 01:44:59,335 - elabftw.elab_manager - INFO - Successfully connected to elabFTW API: https://10.159.64.205:3148/api/v2
+2025-09-11 01:44:59,922 - ui.main_window - INFO - Loaded 6 templates
+2025-09-11 01:45:04,150 - camera.camera_manager - ERROR - 无法从摄像头读取图像
+2025-09-11 01:45:04,163 - camera.camera_manager - INFO - 摄像头资源已释放
+2025-09-11 01:45:04,163 - ui.main_window - INFO - Camera initialization failed: 无法从摄像头读取图像
+2025-09-11 01:45:10,089 - ui.main_window - INFO - Loaded image from /Users/lianbin/workdir/_codes_/New_Project/ai_assisted_group_managesystem/lab_asset_manager/images/Screenshot 2025-09-11 at 12.42.19 AM.jpg
+2025-09-11 01:45:11,030 - ui.main_window - INFO - Preparing analysis...
+2025-09-11 01:45:11,524 - ui.main_window - INFO - Preparing image analysis...
+2025-09-11 01:45:11,526 - ui.main_window - INFO - Analyzing image with LLM...
+2025-09-11 01:45:20,318 - ui.main_window - INFO - Analysis complete, processing results...
+2025-09-11 01:45:20,320 - ui.main_window - INFO - Analysis complete, you can edit the results before saving
+2025-09-11 01:45:20,329 - ui.main_window - INFO - Analysis complete
+2025-09-11 01:45:21,421 - ui.main_window - INFO - Saving to elabFTW...
+2025-09-11 01:45:21,895 - elabftw.elab_manager - INFO - Item created (ID: 1246)
+2025-09-11 01:45:22,711 - elabftw.elab_manager - INFO - Image uploaded (ID: 21)
+2025-09-11 01:45:22,711 - ui.main_window - INFO - Saved to elabFTW (ID: 1246
+2025-09-11 01:45:22,711 - ui.main_window - INFO - Generating QR code...
+2025-09-11 01:45:23,089 - qrcode_module.qrcode_generator - ERROR - Failed to create asset QR code: cannot determine region size; use 4-item box
+2025-09-11 01:45:23,089 - ui.main_window - INFO - Failed to generate QR code: cannot determine region size; use 4-item box
+2025-09-11 01:45:31,722 - ui.main_window - INFO - Camera stopped
+2025-09-11 01:45:46,489 - utils.config_manager - INFO - Configuration file loaded: config.json
+2025-09-11 01:45:46,489 - llm.llm_manager - INFO - Initialized OpenAI LLM (model: gpt-4-turbo)
+2025-09-11 01:45:47,052 - elabftw.elab_manager - INFO - Successfully connected to elabFTW API: https://10.159.64.205:3148/api/v2
+2025-09-11 01:45:47,611 - ui.main_window - INFO - Loaded 6 templates
+2025-09-11 01:45:51,826 - camera.camera_manager - ERROR - 无法从摄像头读取图像
+2025-09-11 01:45:51,846 - camera.camera_manager - INFO - 摄像头资源已释放
+2025-09-11 01:45:51,846 - ui.main_window - INFO - Camera initialization failed: 无法从摄像头读取图像
+2025-09-11 01:45:59,123 - ui.main_window - INFO - Loaded image from /Users/lianbin/workdir/_codes_/New_Project/ai_assisted_group_managesystem/lab_asset_manager/images/Screenshot 2025-09-11 at 12.42.19 AM.jpg
+2025-09-11 01:46:01,833 - ui.main_window - INFO - Preparing analysis...
+2025-09-11 01:46:02,412 - ui.main_window - INFO - Preparing image analysis...
+2025-09-11 01:46:02,413 - ui.main_window - INFO - Analyzing image with LLM...
+2025-09-11 01:46:10,389 - ui.main_window - INFO - Analysis complete, processing results...
+2025-09-11 01:46:10,390 - ui.main_window - INFO - Analysis complete, you can edit the results before saving
+2025-09-11 01:46:10,395 - ui.main_window - INFO - Analysis complete
+2025-09-11 01:46:10,940 - ui.main_window - INFO - Saving to elabFTW...
+2025-09-11 01:46:11,455 - elabftw.elab_manager - INFO - Item created (ID: 1247)
+2025-09-11 01:46:12,274 - elabftw.elab_manager - INFO - Image uploaded (ID: 22)
+2025-09-11 01:46:12,274 - ui.main_window - INFO - Saved to elabFTW (ID: 1247
+2025-09-11 01:46:12,274 - ui.main_window - INFO - Generating QR code...
+2025-09-11 01:46:12,657 - qrcode_module.qrcode_generator - ERROR - Failed to generate QR code: BaseImage.__init__() got multiple values for argument 'box_size'
+2025-09-11 01:46:12,657 - ui.main_window - INFO - Failed to generate QR code: Failed to generate QR code image
+2025-09-11 01:46:17,863 - ui.main_window - INFO - Camera stopped
+2025-09-11 01:47:58,355 - utils.config_manager - INFO - Configuration file loaded: config.json
+2025-09-11 01:47:58,356 - llm.llm_manager - INFO - Initialized OpenAI LLM (model: gpt-4-turbo)
+2025-09-11 01:47:58,948 - elabftw.elab_manager - INFO - Successfully connected to elabFTW API: https://10.159.64.205:3148/api/v2
+2025-09-11 01:47:59,491 - ui.main_window - INFO - Loaded 6 templates
+2025-09-11 01:48:03,692 - camera.camera_manager - ERROR - 无法从摄像头读取图像
+2025-09-11 01:48:03,710 - camera.camera_manager - INFO - 摄像头资源已释放
+2025-09-11 01:48:03,710 - ui.main_window - INFO - Camera initialization failed: 无法从摄像头读取图像
+2025-09-11 01:48:14,854 - ui.main_window - INFO - Loaded image from /Users/lianbin/workdir/_codes_/New_Project/ai_assisted_group_managesystem/lab_asset_manager/images/Screenshot 2025-09-11 at 12.42.19 AM.jpg
+2025-09-11 01:48:15,727 - ui.main_window - INFO - Preparing analysis...
+2025-09-11 01:48:16,265 - ui.main_window - INFO - Preparing image analysis...
+2025-09-11 01:48:16,267 - ui.main_window - INFO - Analyzing image with LLM...
+2025-09-11 01:48:25,566 - ui.main_window - INFO - Analysis complete, processing results...
+2025-09-11 01:48:25,569 - ui.main_window - INFO - Analysis complete, you can edit the results before saving
+2025-09-11 01:48:25,582 - ui.main_window - INFO - Analysis complete
+2025-09-11 01:48:27,593 - ui.main_window - INFO - Saving to elabFTW...
+2025-09-11 01:48:28,099 - elabftw.elab_manager - INFO - Item created (ID: 1248)
+2025-09-11 01:48:29,030 - elabftw.elab_manager - INFO - Image uploaded (ID: 23)
+2025-09-11 01:48:29,030 - ui.main_window - INFO - Saved to elabFTW (ID: 1248
+2025-09-11 01:48:29,030 - ui.main_window - INFO - Generating QR code...
+2025-09-11 01:48:29,407 - qrcode_module.qrcode_generator - ERROR - Failed to create asset QR code: cannot determine region size; use 4-item box
+2025-09-11 01:48:29,407 - ui.main_window - INFO - Failed to generate QR code: cannot determine region size; use 4-item box
+2025-09-11 01:48:37,202 - ui.main_window - INFO - Camera stopped
+2025-09-11 01:49:02,113 - utils.config_manager - INFO - Configuration file loaded: config.json
+2025-09-11 01:49:02,114 - llm.llm_manager - INFO - Initialized OpenAI LLM (model: gpt-4-turbo)
+2025-09-11 01:49:02,739 - elabftw.elab_manager - INFO - Successfully connected to elabFTW API: https://10.159.64.205:3148/api/v2
+2025-09-11 01:49:03,289 - ui.main_window - INFO - Loaded 6 templates
+2025-09-11 01:49:07,548 - camera.camera_manager - ERROR - 无法从摄像头读取图像
+2025-09-11 01:49:07,574 - camera.camera_manager - INFO - 摄像头资源已释放
+2025-09-11 01:49:07,575 - ui.main_window - INFO - Camera initialization failed: 无法从摄像头读取图像
+2025-09-11 01:49:16,281 - ui.main_window - INFO - Loaded image from /Users/lianbin/workdir/_codes_/New_Project/ai_assisted_group_managesystem/lab_asset_manager/images/Screenshot 2025-09-11 at 12.42.19 AM.jpg
+2025-09-11 01:49:16,915 - ui.main_window - INFO - Preparing analysis...
+2025-09-11 01:49:17,482 - ui.main_window - INFO - Preparing image analysis...
+2025-09-11 01:49:17,484 - ui.main_window - INFO - Analyzing image with LLM...
+2025-09-11 01:49:24,231 - ui.main_window - INFO - Analysis complete, processing results...
+2025-09-11 01:49:24,233 - ui.main_window - INFO - Analysis complete, you can edit the results before saving
+2025-09-11 01:49:24,240 - ui.main_window - INFO - Analysis complete
+2025-09-11 01:49:25,485 - ui.main_window - INFO - Saving to elabFTW...
+2025-09-11 01:49:25,998 - elabftw.elab_manager - INFO - Item created (ID: 1249)
+2025-09-11 01:49:26,791 - elabftw.elab_manager - INFO - Image uploaded (ID: 24)
+2025-09-11 01:49:26,791 - ui.main_window - INFO - Saved to elabFTW (ID: 1249
+2025-09-11 01:49:26,791 - ui.main_window - INFO - Generating QR code...
+2025-09-11 01:49:27,168 - qrcode_module.qrcode_generator - ERROR - Failed to create asset QR code: cannot determine region size; use 4-item box
+2025-09-11 01:49:27,169 - ui.main_window - INFO - Failed to generate QR code: cannot determine region size; use 4-item box
+2025-09-11 01:49:58,985 - ui.main_window - INFO - Camera stopped
+2025-09-11 01:50:25,342 - utils.config_manager - INFO - Configuration file loaded: config.json
+2025-09-11 01:50:25,343 - llm.llm_manager - INFO - Initialized OpenAI LLM (model: gpt-4-turbo)
+2025-09-11 01:50:25,903 - elabftw.elab_manager - INFO - Successfully connected to elabFTW API: https://10.159.64.205:3148/api/v2
+2025-09-11 01:50:26,484 - ui.main_window - INFO - Loaded 6 templates
+2025-09-11 01:50:30,708 - camera.camera_manager - ERROR - 无法从摄像头读取图像
+2025-09-11 01:50:30,728 - camera.camera_manager - INFO - 摄像头资源已释放
+2025-09-11 01:50:30,729 - ui.main_window - INFO - Camera initialization failed: 无法从摄像头读取图像
+2025-09-11 01:50:37,309 - ui.main_window - INFO - Loaded image from /Users/lianbin/workdir/_codes_/New_Project/ai_assisted_group_managesystem/lab_asset_manager/images/Screenshot 2025-09-11 at 12.42.19 AM.jpg
+2025-09-11 01:50:42,121 - ui.main_window - INFO - Preparing analysis...
+2025-09-11 01:50:42,719 - ui.main_window - INFO - Preparing image analysis...
+2025-09-11 01:50:42,722 - ui.main_window - INFO - Analyzing image with LLM...
+2025-09-11 01:50:48,159 - ui.main_window - INFO - Analysis complete, processing results...
+2025-09-11 01:50:48,161 - ui.main_window - INFO - Analysis complete, you can edit the results before saving
+2025-09-11 01:50:48,170 - ui.main_window - INFO - Analysis complete
+2025-09-11 01:50:48,897 - ui.main_window - INFO - Saving to elabFTW...
+2025-09-11 01:50:49,456 - elabftw.elab_manager - INFO - Item created (ID: 1250)
+2025-09-11 01:50:50,443 - elabftw.elab_manager - INFO - Image uploaded (ID: 25)
+2025-09-11 01:50:50,443 - ui.main_window - INFO - Saved to elabFTW (ID: 1250
+2025-09-11 01:50:50,443 - ui.main_window - INFO - Generating QR code...
+2025-09-11 01:50:50,883 - qrcode_module.qrcode_generator - INFO - Asset QR code with title saved: qrcodes/Hydrofluoric Acid_1250.png
+2025-09-11 01:50:54,220 - ui.main_window - INFO - QR code generated: qrcodes/Hydrofluoric Acid_1250.png
+2025-09-11 01:52:19,823 - ui.main_window - INFO - Camera stopped
+2025-09-11 01:54:56,222 - utils.config_manager - INFO - Configuration file loaded: config.json
+2025-09-11 01:54:56,223 - llm.llm_manager - INFO - Initialized OpenAI LLM (model: gpt-4-turbo)
+2025-09-11 01:54:56,842 - elabftw.elab_manager - INFO - Successfully connected to elabFTW API: https://10.159.64.205:3148/api/v2
+2025-09-11 01:54:56,843 - utils.config_manager - INFO - Configuration file loaded: config.json
+2025-09-11 01:54:57,528 - ui.main_window - INFO - Loaded 6 templates
+2025-09-11 01:55:01,845 - camera.camera_manager - ERROR - 无法从摄像头读取图像
+2025-09-11 01:55:01,874 - camera.camera_manager - INFO - 摄像头资源已释放
+2025-09-11 01:55:01,875 - ui.main_window - INFO - Camera initialization failed: 无法从摄像头读取图像
+2025-09-11 01:55:13,243 - ui.main_window - INFO - Loaded image from /Users/lianbin/workdir/_codes_/New_Project/ai_assisted_group_managesystem/lab_asset_manager/images/Screenshot 2025-09-11 at 12.42.19 AM.jpg
+2025-09-11 01:55:14,242 - ui.main_window - INFO - Preparing analysis...
+2025-09-11 01:55:14,779 - ui.main_window - INFO - Preparing image analysis...
+2025-09-11 01:55:14,781 - ui.main_window - INFO - Analyzing image with LLM...
+2025-09-11 01:55:22,383 - ui.main_window - INFO - Analysis complete, processing results...
+2025-09-11 01:55:22,386 - ui.main_window - INFO - Analysis complete, you can edit the results before saving
+2025-09-11 01:55:22,400 - ui.main_window - INFO - Analysis complete
+2025-09-11 01:55:25,341 - ui.main_window - INFO - Saving to elabFTW...
+2025-09-11 01:55:25,857 - elabftw.elab_manager - INFO - Item created (ID: 1251)
+2025-09-11 01:55:26,655 - elabftw.elab_manager - INFO - Image uploaded (ID: 26)
+2025-09-11 01:55:26,655 - ui.main_window - INFO - Saved to elabFTW (ID: 1251
+2025-09-11 01:55:26,655 - ui.main_window - INFO - Generating QR code...
+2025-09-11 01:55:27,082 - qrcode_module.qrcode_generator - INFO - Asset QR code with title saved: qrcodes/Hydrofluoric Acid_1251.png
+2025-09-11 01:55:27,167 - ui.main_window - INFO - QR code generated: qrcodes/Hydrofluoric Acid_1251.png
+2025-09-11 01:58:06,258 - ui.main_window - INFO - Loaded image from /Users/lianbin/workdir/_codes_/New_Project/ai_assisted_group_managesystem/lab_asset_manager/images/Screenshot 2025-09-11 at 1.57.12 AM.jpg
+2025-09-11 01:58:07,208 - ui.main_window - INFO - Preparing analysis...
+2025-09-11 01:58:07,716 - ui.main_window - INFO - Preparing image analysis...
+2025-09-11 01:58:07,717 - ui.main_window - INFO - Analyzing image with LLM...
+2025-09-11 01:58:14,990 - ui.main_window - INFO - Analysis complete, processing results...
+2025-09-11 01:58:14,991 - ui.main_window - INFO - Analysis complete, you can edit the results before saving
+2025-09-11 01:58:15,000 - ui.main_window - INFO - Analysis complete
+2025-09-11 01:58:21,217 - ui.main_window - INFO - Saving to elabFTW...
+2025-09-11 01:58:21,746 - elabftw.elab_manager - INFO - Item created (ID: 1252)
+2025-09-11 01:58:22,537 - elabftw.elab_manager - INFO - Image uploaded (ID: 27)
+2025-09-11 01:58:22,538 - ui.main_window - INFO - Saved to elabFTW (ID: 1252
+2025-09-11 01:58:22,538 - ui.main_window - INFO - Generating QR code...
+2025-09-11 01:58:22,929 - qrcode_module.qrcode_generator - INFO - Asset QR code with title saved: qrcodes/N-Methyl-2-Pyrrolidone NMP_1252.png
+2025-09-11 01:58:22,931 - ui.main_window - INFO - QR code generated: qrcodes/N-Methyl-2-Pyrrolidone NMP_1252.png
+2025-09-11 01:58:33,256 - ui.main_window - INFO - Loaded image from /Users/lianbin/workdir/_codes_/New_Project/ai_assisted_group_managesystem/lab_asset_manager/images/Screenshot 2025-09-11 at 1.57.22 AM.jpg
+2025-09-11 01:58:36,280 - ui.main_window - INFO - Preparing analysis...
+2025-09-11 01:58:36,780 - ui.main_window - INFO - Preparing image analysis...
+2025-09-11 01:58:36,781 - ui.main_window - INFO - Analyzing image with LLM...
+2025-09-11 01:58:44,669 - ui.main_window - INFO - Analysis complete, processing results...
+2025-09-11 01:58:44,672 - ui.main_window - INFO - Analysis complete, you can edit the results before saving
+2025-09-11 01:58:44,677 - ui.main_window - INFO - Analysis complete
+2025-09-11 01:58:49,556 - ui.main_window - INFO - Saving to elabFTW...
+2025-09-11 01:58:50,145 - elabftw.elab_manager - INFO - Item created (ID: 1253)
+2025-09-11 01:58:50,949 - elabftw.elab_manager - INFO - Image uploaded (ID: 28)
+2025-09-11 01:58:50,950 - ui.main_window - INFO - Saved to elabFTW (ID: 1253
+2025-09-11 01:58:50,950 - ui.main_window - INFO - Generating QR code...
+2025-09-11 01:58:51,326 - qrcode_module.qrcode_generator - INFO - Asset QR code with title saved: qrcodes/1-Methyl-2-Pyrrolidone_1253.png
+2025-09-11 01:58:51,327 - ui.main_window - INFO - QR code generated: qrcodes/1-Methyl-2-Pyrrolidone_1253.png
+2025-09-11 17:33:49,181 - ui.main_window - INFO - Camera stopped
+2025-09-11 17:36:51,209 - utils.config_manager - INFO - Configuration file loaded: config.json
+2025-09-11 17:36:51,210 - llm.llm_manager - INFO - Initialized OpenAI LLM (model: gpt-4-turbo)
+2025-09-11 17:36:51,273 - urllib3.connectionpool - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x12f738a00>: Failed to establish a new connection: [Errno 61] Connection refused')': /api/v2/info
+2025-09-11 17:36:51,281 - urllib3.connectionpool - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x12f738bb0>: Failed to establish a new connection: [Errno 61] Connection refused')': /api/v2/info
+2025-09-11 17:36:51,289 - urllib3.connectionpool - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x12f738d30>: Failed to establish a new connection: [Errno 61] Connection refused')': /api/v2/info
+2025-09-11 17:36:51,295 - elabftw.elab_manager - ERROR - Failed to connect to elabFTW API: HTTPSConnectionPool(host='10.159.64.205', port=3148): Max retries exceeded with url: /api/v2/info (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x12f738eb0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2025-09-11 17:36:51,296 - utils.config_manager - INFO - Configuration file loaded: config.json
+2025-09-11 17:36:51,912 - urllib3.connectionpool - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x12f7928f0>: Failed to establish a new connection: [Errno 61] Connection refused')': /api/v2/info
+2025-09-11 17:36:51,917 - urllib3.connectionpool - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x12f792a40>: Failed to establish a new connection: [Errno 61] Connection refused')': /api/v2/info
+2025-09-11 17:36:51,945 - urllib3.connectionpool - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x12f792bc0>: Failed to establish a new connection: [Errno 61] Connection refused')': /api/v2/info
+2025-09-11 17:36:51,951 - elabftw.elab_manager - ERROR - Failed to connect to elabFTW API: HTTPSConnectionPool(host='10.159.64.205', port=3148): Max retries exceeded with url: /api/v2/info (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x12f792d40>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2025-09-11 17:36:51,952 - ui.main_window - INFO - No templates found
+2025-09-11 17:36:54,258 - camera.camera_manager - INFO - 摄像头初始化成功 (ID: 0, 分辨率: (1280, 720))
+2025-09-11 17:36:54,264 - ui.main_window - INFO - Camera started
+2025-09-11 17:36:59,770 - camera.camera_manager - INFO - 摄像头资源已释放
+2025-09-11 17:36:59,772 - ui.main_window - INFO - Camera stopped
+2025-09-11 17:37:07,993 - utils.config_manager - INFO - Configuration file loaded: config.json
+2025-09-11 17:37:17,991 - utils.config_manager - INFO - Configuration file saved: config.json
+2025-09-11 17:37:17,991 - llm.llm_manager - INFO - Initialized OpenAI LLM (model: gpt-4-turbo)
+2025-09-11 17:37:18,594 - elabftw.elab_manager - INFO - Successfully connected to elabFTW API: https://10.159.68.27:3148/api/v2
+2025-09-11 17:37:18,960 - ui.main_window - INFO - Loaded 6 templates
+2025-09-11 17:37:18,961 - ui.main_window - INFO - Camera stopped
+2025-09-11 17:37:20,369 - camera.camera_manager - INFO - 摄像头初始化成功 (ID: 0, 分辨率: (1280, 720))
+2025-09-11 17:37:20,370 - ui.main_window - INFO - Camera started
+2025-09-11 17:37:20,370 - ui.main_window - INFO - Settings updated
+2025-09-11 17:37:20,450 - utils.config_manager - INFO - Configuration file loaded: config.json
+2025-09-11 17:37:23,891 - elabftw.elab_manager - INFO - Successfully connected to elabFTW API: https://10.159.68.27:3148/api/v2
+2025-09-11 17:37:26,495 - utils.config_manager - INFO - Configuration file saved: config.json
+2025-09-11 17:37:26,495 - llm.llm_manager - INFO - Initialized OpenAI LLM (model: gpt-4-turbo)
+2025-09-11 17:37:26,900 - elabftw.elab_manager - INFO - Successfully connected to elabFTW API: https://10.159.68.27:3148/api/v2
+2025-09-11 17:37:27,242 - ui.main_window - INFO - Loaded 6 templates
+2025-09-11 17:37:27,344 - camera.camera_manager - INFO - 摄像头资源已释放
+2025-09-11 17:37:27,344 - ui.main_window - INFO - Camera stopped
+2025-09-11 17:37:27,769 - camera.camera_manager - INFO - 摄像头初始化成功 (ID: 0, 分辨率: (1280, 720))
+2025-09-11 17:37:27,770 - ui.main_window - INFO - Camera started
+2025-09-11 17:37:27,770 - ui.main_window - INFO - Settings updated
+2025-09-11 17:37:28,977 - camera.camera_manager - INFO - 摄像头资源已释放
+2025-09-11 17:37:28,977 - ui.main_window - INFO - Camera stopped
+2025-09-11 17:37:47,174 - camera.camera_manager - INFO - 摄像头初始化成功 (ID: 0, 分辨率: (1280, 720))
+2025-09-11 17:37:47,177 - ui.main_window - INFO - Camera started
+2025-09-11 17:38:04,810 - ui.main_window - INFO - Capturing image...
+2025-09-11 17:38:06,922 - camera.camera_manager - INFO - 图像已保存至: images/asset_20250911_173804.jpg
+2025-09-11 17:38:06,923 - ui.main_window - INFO - Image saved: images/asset_20250911_173804.jpg
+2025-09-11 17:38:10,225 - ui.main_window - INFO - Preparing analysis...
+2025-09-11 17:38:10,685 - ui.main_window - INFO - Preparing image analysis...
+2025-09-11 17:38:10,686 - ui.main_window - INFO - Analyzing image with LLM...
+2025-09-11 17:38:21,453 - ui.main_window - INFO - Analysis complete, processing results...
+2025-09-11 17:38:21,458 - ui.main_window - INFO - Analysis complete, you can edit the results before saving
+2025-09-11 17:38:21,474 - ui.main_window - INFO - Analysis complete
+2025-09-11 17:38:45,962 - ui.main_window - INFO - Capturing image...
+2025-09-11 17:38:48,081 - camera.camera_manager - INFO - 图像已保存至: images/asset_20250911_173845.jpg
+2025-09-11 17:38:48,081 - ui.main_window - INFO - Image saved: images/asset_20250911_173845.jpg
+2025-09-11 17:38:51,357 - ui.main_window - INFO - Preparing analysis...
+2025-09-11 17:38:51,832 - ui.main_window - INFO - Preparing image analysis...
+2025-09-11 17:38:51,834 - ui.main_window - INFO - Analyzing image with LLM...
+2025-09-11 17:38:59,902 - ui.main_window - INFO - Analysis complete, processing results...
+2025-09-11 17:38:59,905 - ui.main_window - INFO - Analysis complete, you can edit the results before saving
+2025-09-11 17:38:59,910 - ui.main_window - INFO - Analysis complete
+2025-09-11 17:39:13,592 - camera.camera_manager - INFO - 摄像头资源已释放
+2025-09-11 17:39:13,594 - ui.main_window - INFO - Camera stopped
+2025-09-11 17:39:45,045 - utils.config_manager - INFO - Configuration file loaded: config.json
+2025-09-11 17:39:45,045 - llm.llm_manager - INFO - Initialized OpenAI LLM (model: gpt-4-turbo)
+2025-09-11 17:39:45,549 - elabftw.elab_manager - INFO - Successfully connected to elabFTW API: https://10.159.68.27:3148/api/v2
+2025-09-11 17:39:45,550 - utils.config_manager - INFO - Configuration file loaded: config.json
+2025-09-11 17:39:46,151 - ui.main_window - INFO - Loaded 6 templates
+2025-09-11 17:39:47,879 - camera.camera_manager - INFO - 摄像头初始化成功 (ID: 0, 分辨率: (1280, 720))
+2025-09-11 17:39:47,880 - ui.main_window - INFO - Camera started
+2025-09-11 17:39:55,999 - ui.main_window - INFO - Capturing image...
+2025-09-11 17:39:58,121 - camera.camera_manager - INFO - 图像已保存至: images/asset_20250911_173956.jpg
+2025-09-11 17:39:58,121 - ui.main_window - INFO - Image saved: images/asset_20250911_173956.jpg
+2025-09-11 17:39:58,670 - ui.main_window - INFO - Preparing analysis...
+2025-09-11 17:39:59,139 - ui.main_window - INFO - Preparing image analysis...
+2025-09-11 17:39:59,140 - ui.main_window - INFO - Analyzing image with LLM...
+2025-09-11 17:40:13,022 - ui.main_window - INFO - Analysis complete, processing results...
+2025-09-11 17:40:13,025 - ui.main_window - INFO - Analysis complete, you can edit the results before saving
+2025-09-11 17:40:13,033 - ui.main_window - INFO - Analysis complete
+2025-09-11 17:40:56,517 - ui.main_window - INFO - Saving to elabFTW...
+2025-09-11 17:40:57,142 - elabftw.elab_manager - INFO - Item created (ID: 1254)
+2025-09-11 17:40:58,076 - elabftw.elab_manager - INFO - Image uploaded (ID: 29)
+2025-09-11 17:40:58,076 - ui.main_window - INFO - Saved to elabFTW (ID: 1254
+2025-09-11 17:40:58,076 - ui.main_window - INFO - Generating QR code...
+2025-09-11 17:40:58,488 - qrcode_module.qrcode_generator - INFO - Asset QR code with title saved: qrcodes/REXQualis Solderless Breadboard_1254.png
+2025-09-11 17:40:58,594 - ui.main_window - INFO - QR code generated: qrcodes/REXQualis Solderless Breadboard_1254.png
+2025-09-11 17:41:03,192 - utils.config_manager - INFO - Configuration file loaded: config.json
+2025-09-11 17:43:25,856 - ui.main_window - INFO - Preparing analysis...
+2025-09-11 17:43:26,312 - ui.main_window - INFO - Preparing image analysis...
+2025-09-11 17:43:26,312 - ui.main_window - INFO - Analyzing image with LLM...
+2025-09-11 17:43:35,334 - ui.main_window - INFO - Analysis complete, processing results...
+2025-09-11 17:43:35,338 - ui.main_window - INFO - Analysis complete, you can edit the results before saving
+2025-09-11 17:43:35,349 - ui.main_window - INFO - Analysis complete
+2025-09-11 17:43:48,253 - ui.main_window - INFO - Saving to elabFTW...
+2025-09-11 17:43:48,720 - elabftw.elab_manager - INFO - Item created (ID: 1255)
+2025-09-11 17:43:49,600 - elabftw.elab_manager - INFO - Image uploaded (ID: 30)
+2025-09-11 17:43:49,601 - ui.main_window - INFO - Saved to elabFTW (ID: 1255
+2025-09-11 17:43:49,601 - ui.main_window - INFO - Generating QR code...
+2025-09-11 17:43:49,972 - qrcode_module.qrcode_generator - INFO - Asset QR code with title saved: qrcodes/REXQualis Solderless Breadboard_1255.png
+2025-09-11 17:43:49,976 - ui.main_window - INFO - QR code generated: qrcodes/REXQualis Solderless Breadboard_1255.png
+2025-09-11 17:44:21,659 - utils.config_manager - INFO - Configuration file loaded: config.json
+2025-09-11 17:46:13,038 - utils.config_manager - INFO - Configuration file loaded: config.json
+2025-09-11 17:48:45,698 - utils.config_manager - INFO - Configuration file loaded: config.json
+2025-09-11 17:52:04,102 - ui.main_window - INFO - Preparing analysis...
+2025-09-11 17:52:04,510 - ui.main_window - INFO - Preparing image analysis...
+2025-09-11 17:52:04,511 - ui.main_window - INFO - Analyzing image with LLM...
+2025-09-11 17:52:14,701 - ui.main_window - INFO - Analysis complete, processing results...
+2025-09-11 17:52:14,703 - ui.main_window - INFO - Analysis complete, you can edit the results before saving
+2025-09-11 17:52:14,707 - ui.main_window - INFO - Analysis complete
+2025-09-11 17:52:30,953 - camera.camera_manager - INFO - 摄像头资源已释放
+2025-09-11 17:52:30,953 - ui.main_window - INFO - Camera stopped
+2025-09-11 18:45:31,004 - utils.config_manager - INFO - Configuration file loaded: config.json
+2025-09-11 18:45:31,005 - llm.llm_manager - INFO - Initialized OpenAI LLM (model: gpt-4-turbo)
+2025-09-11 18:45:31,509 - elabftw.elab_manager - INFO - Successfully connected to elabFTW API: https://10.159.68.27:3148/api/v2
+2025-09-11 18:45:31,509 - utils.config_manager - INFO - Configuration file loaded: config.json
+2025-09-11 18:45:32,466 - ui.main_window - INFO - Loaded 6 templates
+2025-09-11 18:45:34,938 - camera.camera_manager - INFO - 摄像头初始化成功 (ID: 0, 分辨率: (1280, 720))
+2025-09-11 18:45:34,945 - ui.main_window - INFO - Camera started
+2025-09-11 18:45:48,992 - ui.main_window - INFO - Capturing image...
+2025-09-11 18:45:51,111 - camera.camera_manager - INFO - 图像已保存至: images/asset_20250911_184548.jpg
+2025-09-11 18:45:51,111 - ui.main_window - INFO - Image saved: images/asset_20250911_184548.jpg
+2025-09-11 18:45:51,111 - ui.main_window - INFO - Preparing analysis...
+2025-09-11 18:45:51,615 - ui.main_window - INFO - Preparing image analysis...
+2025-09-11 18:45:51,617 - ui.main_window - INFO - Analyzing image with LLM...
+2025-09-11 18:46:07,728 - ui.main_window - INFO - Analysis complete, processing results...
+2025-09-11 18:46:07,734 - ui.main_window - INFO - Analysis complete, you can edit the results before saving
+2025-09-11 18:46:07,769 - ui.main_window - INFO - Analysis complete
+2025-09-11 18:46:12,758 - ui.main_window - INFO - Preparing analysis...
+2025-09-11 18:46:13,232 - ui.main_window - INFO - Preparing image analysis...
+2025-09-11 18:46:13,233 - ui.main_window - INFO - Analyzing image with LLM...
+2025-09-11 18:46:20,368 - ui.main_window - INFO - Analysis complete, processing results...
+2025-09-11 18:46:20,371 - ui.main_window - INFO - Analysis complete, you can edit the results before saving
+2025-09-11 18:46:20,381 - ui.main_window - INFO - Analysis complete
+2025-09-11 18:46:42,918 - camera.camera_manager - INFO - 摄像头资源已释放
+2025-09-11 18:46:42,919 - ui.main_window - INFO - Camera stopped
+2025-09-14 17:02:37,867 - utils.config_manager - INFO - Configuration file loaded: config.json
+2025-09-14 17:02:37,868 - llm.llm_manager - INFO - Initialized OpenAI LLM (model: gpt-4-turbo)
+2025-09-14 17:03:52,955 - urllib3.connectionpool - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x12fdea5c0>, 'Connection to 10.159.68.27 timed out. (connect timeout=None)')': /api/v2/info
+2025-09-14 17:04:28,066 - urllib3.connectionpool - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x12fdea6e0>: Failed to establish a new connection: [Errno 61] Connection refused')': /api/v2/info
+2025-09-14 17:04:28,075 - urllib3.connectionpool - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x12fdea890>: Failed to establish a new connection: [Errno 61] Connection refused')': /api/v2/info
+2025-09-14 17:04:28,082 - elabftw.elab_manager - ERROR - Failed to connect to elabFTW API: HTTPSConnectionPool(host='10.159.68.27', port=3148): Max retries exceeded with url: /api/v2/info (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x12fdeaa10>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2025-09-14 17:04:28,084 - utils.config_manager - INFO - Configuration file loaded: config.json
+2025-09-14 17:05:12,841 - utils.config_manager - INFO - Configuration file loaded: config.json
+2025-09-14 17:05:12,841 - llm.llm_manager - INFO - Initialized OpenAI LLM (model: gpt-4-turbo)
+2025-09-14 17:05:13,394 - elabftw.elab_manager - INFO - Successfully connected to elabFTW API: https://10.159.65.92:3148/api/v2
+2025-09-14 17:05:13,395 - utils.config_manager - INFO - Configuration file loaded: config.json
+2025-09-14 17:05:13,925 - ui.main_window - INFO - Loaded 6 templates
+2025-09-14 17:05:15,761 - camera.camera_manager - INFO - 摄像头初始化成功 (ID: 0, 分辨率: (1280, 720))
+2025-09-14 17:05:15,770 - ui.main_window - INFO - Camera started
+2025-09-14 17:05:25,450 - ui.main_window - INFO - Loaded image from /Users/lianbin/workdir/_codes_/New_Project/ai_assisted_group_managesystem/lab_asset_manager/images/IMG_4940.jpeg
+2025-09-14 17:05:26,771 - ui.main_window - INFO - Preparing analysis...
+2025-09-14 17:05:27,287 - ui.main_window - INFO - Preparing image analysis...
+2025-09-14 17:05:27,289 - ui.main_window - INFO - Analyzing image with LLM...
+2025-09-14 17:05:39,353 - ui.main_window - INFO - Analysis complete, processing results...
+2025-09-14 17:05:39,361 - ui.main_window - INFO - Analysis complete, you can edit the results before saving
+2025-09-14 17:05:39,376 - ui.main_window - INFO - Analysis complete
+2025-09-14 17:05:42,719 - camera.camera_manager - INFO - 摄像头资源已释放
+2025-09-14 17:05:42,719 - ui.main_window - INFO - Camera stopped
+2025-09-14 17:06:13,893 - ui.main_window - INFO - Saving to elabFTW...
+2025-09-14 17:06:14,457 - elabftw.elab_manager - INFO - Item created (ID: 1256)
+2025-09-14 17:06:15,534 - elabftw.elab_manager - INFO - Image uploaded (ID: 33)
+2025-09-14 17:06:15,534 - ui.main_window - INFO - Saved to elabFTW (ID: 1256
+2025-09-14 17:06:15,534 - ui.main_window - INFO - Generating QR code...
+2025-09-14 17:06:15,986 - qrcode_module.qrcode_generator - INFO - Asset QR code with title saved: qrcodes/1-Vinyl-2-pyrrolidinone_1256.png
+2025-09-14 17:06:16,139 - ui.main_window - INFO - QR code generated: qrcodes/1-Vinyl-2-pyrrolidinone_1256.png
+2025-09-14 17:06:24,272 - ui.main_window - INFO - Loaded image from /Users/lianbin/workdir/_codes_/New_Project/ai_assisted_group_managesystem/lab_asset_manager/images/IMG_4941.jpeg
+2025-09-14 17:06:28,939 - ui.main_window - INFO - Preparing analysis...
+2025-09-14 17:06:29,480 - ui.main_window - INFO - Preparing image analysis...
+2025-09-14 17:06:29,483 - ui.main_window - INFO - Analyzing image with LLM...
+2025-09-14 17:06:39,948 - ui.main_window - INFO - Analysis complete, processing results...
+2025-09-14 17:06:39,951 - ui.main_window - INFO - Analysis complete, you can edit the results before saving
+2025-09-14 17:06:39,955 - ui.main_window - INFO - Analysis complete
+2025-09-14 17:06:47,227 - ui.main_window - INFO - Saving to elabFTW...
+2025-09-14 17:06:47,717 - elabftw.elab_manager - INFO - Item created (ID: 1257)
+2025-09-14 17:06:48,753 - elabftw.elab_manager - INFO - Image uploaded (ID: 34)
+2025-09-14 17:06:48,753 - ui.main_window - INFO - Saved to elabFTW (ID: 1257
+2025-09-14 17:06:48,754 - ui.main_window - INFO - Generating QR code...
+2025-09-14 17:06:49,199 - qrcode_module.qrcode_generator - INFO - Asset QR code with title saved: qrcodes/44-Dipyridyl_1257.png
+2025-09-14 17:06:49,201 - ui.main_window - INFO - QR code generated: qrcodes/44-Dipyridyl_1257.png
+2025-09-14 17:06:55,746 - ui.main_window - INFO - Loaded image from /Users/lianbin/workdir/_codes_/New_Project/ai_assisted_group_managesystem/lab_asset_manager/images/IMG_4942.jpeg
+2025-09-14 17:06:58,171 - ui.main_window - INFO - Preparing analysis...
+2025-09-14 17:06:58,677 - ui.main_window - INFO - Preparing image analysis...
+2025-09-14 17:06:58,697 - ui.main_window - INFO - Analyzing image with LLM...
+2025-09-14 17:07:10,777 - ui.main_window - INFO - Analysis complete, processing results...
+2025-09-14 17:07:10,782 - ui.main_window - INFO - Analysis complete, you can edit the results before saving
+2025-09-14 17:07:10,813 - ui.main_window - INFO - Analysis complete
+2025-09-14 17:07:22,415 - ui.main_window - INFO - Saving to elabFTW...
+2025-09-14 17:07:22,924 - elabftw.elab_manager - INFO - Item created (ID: 1258)
+2025-09-14 17:07:24,257 - elabftw.elab_manager - INFO - Image uploaded (ID: 35)
+2025-09-14 17:07:24,257 - ui.main_window - INFO - Saved to elabFTW (ID: 1258
+2025-09-14 17:07:24,258 - ui.main_window - INFO - Generating QR code...
+2025-09-14 17:07:24,623 - qrcode_module.qrcode_generator - INFO - Asset QR code with title saved: qrcodes/3-Trimethoxysilylpropyl methacrylate 98_1258.png
+2025-09-14 17:07:24,625 - ui.main_window - INFO - QR code generated: qrcodes/3-Trimethoxysilylpropyl methacrylate 98_1258.png
+2025-09-14 17:12:08,258 - utils.config_manager - INFO - Configuration file loaded: config.json
+2025-09-14 17:12:22,338 - utils.config_manager - INFO - Configuration file saved: config.json
+2025-09-14 17:12:22,339 - llm.llm_manager - INFO - Initialized OpenAI LLM (model: gpt-4-turbo)
+2025-09-14 17:12:22,828 - elabftw.elab_manager - INFO - Successfully connected to elabFTW API: https://10.159.65.92:3148/api/v2
+2025-09-14 17:12:23,210 - ui.main_window - INFO - Preparing analysis...
+2025-09-14 17:12:23,210 - ui.main_window - INFO - Please select a template
+2025-09-14 17:12:23,211 - ui.main_window - INFO - Preparing analysis...
+2025-09-14 17:12:23,546 - ui.main_window - INFO - Loaded 6 templates
+2025-09-14 17:12:23,546 - ui.main_window - INFO - Camera stopped
+2025-09-14 17:12:25,019 - camera.camera_manager - INFO - 摄像头初始化成功 (ID: 0, 分辨率: (1280, 720))
+2025-09-14 17:12:25,020 - ui.main_window - INFO - Camera started
+2025-09-14 17:12:25,020 - ui.main_window - INFO - Settings updated
+2025-09-14 17:12:25,046 - ui.main_window - INFO - Preparing image analysis...
+2025-09-14 17:12:25,047 - ui.main_window - INFO - Analyzing image with LLM...
+2025-09-14 17:12:26,025 - camera.camera_manager - ERROR - 读取图像帧失败
+2025-09-14 17:12:26,025 - ui.main_window - INFO - 读取图像帧失败
+2025-09-14 17:12:28,068 - camera.camera_manager - ERROR - 读取图像帧失败
+2025-09-14 17:12:28,069 - ui.main_window - INFO - 读取图像帧失败
+2025-09-14 17:12:33,718 - camera.camera_manager - INFO - 摄像头资源已释放
+2025-09-14 17:12:33,719 - ui.main_window - INFO - Camera stopped
+2025-09-14 17:12:34,781 - ui.main_window - INFO - Analysis complete, processing results...
+2025-09-14 17:12:34,783 - ui.main_window - INFO - Analysis complete, you can edit the results before saving
+2025-09-14 17:12:34,787 - ui.main_window - INFO - Analysis complete
+2025-09-14 17:12:34,968 - ui.main_window - INFO - Camera stopped
+2025-09-16 23:41:17,279 - config.settings - INFO - Configuration file loaded: config.json
+2025-09-16 23:41:17,280 - llm.llm_manager - INFO - Initialized OpenAI LLM (model: gpt-4-turbo)
+2025-09-16 23:41:18,002 - elabftw.elab_manager - INFO - Successfully connected to elabFTW API: https://10.159.65.92:3148/api/v2
+2025-09-16 23:41:18,004 - config.settings - INFO - Configuration file loaded: /Users/lianbin/workdir/_codes_/New_Project/ai_assisted_group_managesystem/lab_asset_manager/config.json
+2025-09-16 23:41:19,217 - ui.main_window - INFO - Loaded 6 templates
+2025-09-16 23:41:23,640 - config.settings - INFO - Configuration file loaded: /Users/lianbin/workdir/_codes_/New_Project/ai_assisted_group_managesystem/lab_asset_manager/config.json
+2025-09-16 23:41:27,285 - config.settings - INFO - Configuration file saved: /Users/lianbin/workdir/_codes_/New_Project/ai_assisted_group_managesystem/lab_asset_manager/config.json
+2025-09-16 23:41:27,285 - llm.llm_manager - INFO - Initialized OpenAI LLM (model: gpt-4-turbo)
+2025-09-16 23:41:28,031 - elabftw.elab_manager - INFO - Successfully connected to elabFTW API: https://10.159.65.92:3148/api/v2
+2025-09-16 23:41:28,554 - ui.main_window - INFO - Loaded 6 templates
+2025-09-16 23:41:28,554 - ui.main_window - INFO - Camera stopped
+2025-09-16 23:41:32,902 - camera.camera_manager - ERROR - 无法从摄像头读取图像
+2025-09-16 23:41:32,920 - camera.camera_manager - INFO - 摄像头资源已释放
+2025-09-16 23:41:32,921 - ui.main_window - INFO - Camera initialization failed: 无法从摄像头读取图像
+2025-09-16 23:41:32,921 - ui.main_window - INFO - Settings updated
+2025-09-16 23:41:45,612 - ui.main_window - INFO - Loaded image from /Users/lianbin/Desktop/Screenshot 2025-09-16 at 10.05.55 PM.jpg
+2025-09-16 23:41:46,984 - ui.main_window - INFO - Preparing analysis...
+2025-09-16 23:41:47,581 - ui.main_window - INFO - Preparing image analysis...
+2025-09-16 23:41:47,584 - ui.main_window - INFO - Analyzing image with LLM...
+2025-09-16 23:41:54,328 - ui.main_window - INFO - Analysis complete, processing results...
+2025-09-16 23:41:54,330 - ui.main_window - INFO - Analysis complete, you can edit the results before saving
+2025-09-16 23:41:54,339 - ui.main_window - INFO - Analysis complete
+2025-09-16 23:42:03,372 - ui.main_window - INFO - Camera stopped
+2025-09-16 23:49:59,204 - config.settings - INFO - Configuration file loaded: config.json
+2025-09-16 23:49:59,205 - llm.llm_manager - INFO - Initialized OpenAI LLM (model: gpt-4-turbo)
+2025-09-16 23:49:59,849 - elabftw.elab_manager - INFO - Successfully connected to elabFTW API: https://10.159.65.92:3148/api/v2
+2025-09-16 23:49:59,850 - config.settings - INFO - Configuration file loaded: /Users/lianbin/workdir/_codes_/New_Project/ai_assisted_group_managesystem/lab_asset_manager/config.json
+2025-09-16 23:50:00,975 - ui.main_window - INFO - Loaded 6 templates
+2025-09-16 23:54:07,696 - camera.camera_manager - ERROR - 无法从摄像头读取图像
+2025-09-16 23:54:07,725 - camera.camera_manager - INFO - 摄像头资源已释放
+2025-09-16 23:54:07,726 - ui.main_window - INFO - Camera initialization failed: 无法从摄像头读取图像
+2025-09-16 23:54:11,368 - ui.main_window - INFO - Camera stopped
+2025-09-16 23:55:12,847 - config.settings - INFO - Configuration file loaded: config.json
+2025-09-16 23:55:12,848 - llm.llm_manager - INFO - Initialized OpenAI LLM (model: gpt-4-turbo)
+2025-09-16 23:55:13,474 - elabftw.elab_manager - INFO - Successfully connected to elabFTW API: https://10.159.65.92:3148/api/v2
+2025-09-16 23:55:13,475 - config.settings - INFO - Configuration file loaded: /Users/lianbin/workdir/_codes_/New_Project/ai_assisted_group_managesystem/lab_asset_manager/config.json
+2025-09-16 23:55:14,085 - ui.main_window - INFO - Loaded 6 templates
+2025-09-17 00:12:04,250 - __main__ - DEBUG - Debug mode enabled
+2025-09-17 00:12:04,251 - config.settings - INFO - Configuration file loaded: config.json
+2025-09-17 00:12:04,251 - llm.llm_manager - INFO - Initialized OpenAI LLM (model: gpt-4-turbo)
+2025-09-17 00:12:04,725 - elabftw.elab_manager - INFO - Successfully connected to elabFTW API: https://10.159.65.92:3148/api/v2
+2025-09-17 00:12:04,726 - config.settings - INFO - Configuration file loaded: /Users/lianbin/workdir/_codes_/New_Project/ai_assisted_group_managesystem/lab_asset_manager/config.json
+2025-09-17 00:12:05,885 - ui.main_window - INFO - Loaded 6 templates
+2025-09-17 00:12:25,866 - ui.main_window - INFO - Camera stopped
+2025-09-17 17:25:09,999 - config.settings - INFO - Configuration file loaded: config.json
+2025-09-17 17:25:10,000 - llm.llm_manager - INFO - Initialized OpenAI LLM (model: gpt-4-turbo)
+2025-09-17 17:25:10,671 - elabftw.elab_manager - INFO - Successfully connected to elabFTW API: https://10.159.65.92:3148/api/v2
+2025-09-17 17:25:10,672 - config.settings - INFO - Configuration file loaded: /Users/lianbin/workdir/_codes_/New_Project/ai_assisted_group_managesystem/lab_asset_manager/config.json
+2025-09-17 17:25:11,791 - ui.main_window - INFO - Loaded 6 templates
+2025-09-17 17:25:16,631 - ui.main_window - INFO - Camera stopped
+2025-09-18 13:26:56,235 - config.settings - INFO - Configuration file loaded: config.json
+2025-09-18 13:26:56,236 - llm.llm_manager - INFO - Initialized OpenAI LLM (model: gpt-4-turbo)
+2025-09-18 13:26:56,874 - elabftw.elab_manager - INFO - Successfully connected to elabFTW API: https://10.159.65.92:3148/api/v2
+2025-09-18 13:26:56,875 - config.settings - INFO - Configuration file loaded: /Users/lianbin/workdir/_codes_/New_Project/ai_assisted_group_managesystem/lab_asset_manager/config.json
+2025-09-18 13:26:58,000 - ui.main_window - INFO - Loaded 6 templates
+2025-09-18 13:27:13,759 - ui.main_window - INFO - Camera stopped
+2025-09-18 13:27:16,184 - config.settings - INFO - Configuration file loaded: config.json
+2025-09-18 13:27:16,184 - llm.llm_manager - INFO - Initialized OpenAI LLM (model: gpt-4-turbo)
+2025-09-18 13:27:16,749 - elabftw.elab_manager - INFO - Successfully connected to elabFTW API: https://10.159.65.92:3148/api/v2
+2025-09-18 13:27:16,750 - config.settings - INFO - Configuration file loaded: /Users/lianbin/workdir/_codes_/New_Project/ai_assisted_group_managesystem/lab_asset_manager/config.json
+2025-09-18 13:27:17,288 - ui.main_window - INFO - Loaded 6 templates
+2025-09-18 13:27:28,046 - ui.main_window - INFO - Loaded image from /Users/lianbin/workdir/_codes_/New_Project/ai_assisted_group_managesystem/lab_asset_manager/images/IMG_4940.jpeg
+2025-09-18 13:27:38,475 - ui.main_window - INFO - Loaded image from /Users/lianbin/workdir/_codes_/New_Project/ai_assisted_group_managesystem/lab_asset_manager/images/IMG_4941.jpeg
+2025-09-18 13:27:49,976 - ui.main_window - INFO - Preparing analysis...
+2025-09-18 13:27:50,536 - ui.main_window - INFO - Preparing image analysis...
+2025-09-18 13:27:50,541 - ui.main_window - INFO - Analyzing image with LLM...
+2025-09-18 13:28:01,394 - ui.main_window - INFO - Analysis complete, processing results...
+2025-09-18 13:28:01,397 - ui.main_window - INFO - Analysis complete, you can edit the results before saving
+2025-09-18 13:28:01,412 - ui.main_window - INFO - Analysis complete
+2025-09-18 13:28:11,548 - ui.main_window - INFO - Saving to elabFTW...
+2025-09-18 13:28:12,051 - elabftw.elab_manager - INFO - Item created (ID: 1260)
+2025-09-18 13:28:13,101 - elabftw.elab_manager - INFO - Image uploaded (ID: 39)
+2025-09-18 13:28:13,101 - ui.main_window - INFO - Saved to elabFTW (ID: 1260
+2025-09-18 13:28:13,101 - ui.main_window - INFO - Generating QR code...
+2025-09-18 13:28:13,537 - qrcode_module.qrcode_generator - INFO - Asset QR code with title saved: qrcodes/44-Dipyridyl_1260.png
+2025-09-18 13:28:13,807 - ui.main_window - INFO - QR code generated: qrcodes/44-Dipyridyl_1260.png
+2025-09-18 13:28:34,447 - ui.main_window - INFO - Camera stopped

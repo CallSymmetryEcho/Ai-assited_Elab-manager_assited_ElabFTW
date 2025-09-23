@@ -1,0 +1,40 @@
+{
+  "llm": {
+    "provider": "openai",
+    "api_key": "your-api-key-here",
+    "model": "gpt-4-vision-preview",
+    "local_model_path": "",
+    "ollama_url": "http://localhost:11434",
+    "ollama_model": "llava",
+    "temperature": 0.7,
+    "max_tokens": 2000,
+    "system_prompt": "You are a professional laboratory asset analysis assistant. Please analyze the laboratory asset in the image and provide detailed description and specification information. Make sure to return information in the template format."
+  },
+  "elabftw": {
+    "api_url": "https://your-elabftw-instance.com/api/v2",
+    "api_key": "your-elabftw-api-key-here",
+    "verify_ssl": true
+  },
+  "camera": {
+    "resolution": [1280, 720],
+    "auto_focus": true,
+    "capture_delay": 3
+  },
+  "qrcode": {
+    "box_size": 10,
+    "border": 4
+  },
+  "ui": {
+    "theme": "light",
+    "language": "en_US"
+  },
+  "storage": {
+    "image_dir": "./data/images",
+    "qrcode_dir": "./data/qrcodes",
+    "log_dir": "./logs"
+  },
+  "logging": {
+    "level": "INFO",
+    "format": "%(asctime)s - %(name)s - %(levelname)s - %(message)s"
+  }
+}

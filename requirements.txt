@@ -1,0 +1,29 @@
+# Basic dependencies
+python-dotenv>=0.19.0
+requests>=2.26.0
+Pillow>=8.3.1
+typing-extensions>=4.0.0
+
+# Camera related
+opencv-python>=4.5.3
+
+# LLM related
+openai>=1.0.0
+anthropic>=0.5.0
+llama-cpp-python>=0.2.0  # Local model support
+ollama>=0.1.0  # Ollama API support
+
+# elabFTW related
+elabapi-python>=0.5.0
+
+# QR code related
+qrcode>=7.3.1
+
+# UI related
+PyQt5>=5.15.4
+
+# Web API related
+Flask>=2.0.0
+Flask-CORS>=3.0.10
+Flask-SocketIO>=5.0.0
+python-socketio>=5.0.0
