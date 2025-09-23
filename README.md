@@ -10,7 +10,7 @@
 ## 🎯 Module Overview
 
 Lab Asset Manager LLM assited Resources Recording formlism, which can help the user analyze the Chemcial or lab assets images using LLM Visiual model and generate the item in ElabFTW management system directly
-![demo](thedemo.png)
+![demo](./thedemo.png)
 ### ✨ Core Features
 
 - 🤖 **AI Image Analysis**: Support for multiple LLM providers including OpenAI GPT-4V, Anthropic Claude, and Ollama
@@ -320,7 +320,7 @@ If you have any questions or suggestions, please contact:
 
 Lab Asset Manager 尝试使用 LLM 数据模型来分析实验室资产，用户可以通过拍照的方式来让LLM在elabftw中自动生成对应项目，然后打印二维码
 
-![demo](thedemo.png)
+![demo](./thedemo.png)
 
 ### ✨ 核心功能
 
